@@ -18,6 +18,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float playerMoveSpeed;
     Rigidbody2D playerRb;
     Vector2 rawInput;
+    private bool facingLeft;
     
 
 
@@ -30,7 +31,6 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        //playerRb.linearVelocity = new Vector2(playerMoveSpeed*rawInput.x, playerRb.linearVelocity.y);
         PlayerMove();
         Jump();
     }
@@ -42,8 +42,8 @@ public class PlayerMovement : MonoBehaviour
 
     public void OnMove(InputValue value){
         rawInput=value.Get<Vector2>();
-        // if(rawInput.x > 0 && facingLeft && CanMove()) Flip();
-        // if(rawInput.x < 0 && !facingLeft && CanMove()) Flip();
+        if(rawInput.x > 0 && facingLeft) Flip();
+        if(rawInput.x < 0 && !facingLeft) Flip();
     }
 
     void PlayerMove()
@@ -58,7 +58,7 @@ public class PlayerMovement : MonoBehaviour
         Vector3 currentScale = gameObject.transform.localScale;
         currentScale.x *= -1;
         gameObject.transform.localScale = currentScale;
-        // facingLeft = !facingLeft;
+        facingLeft = !facingLeft;
     }
 
     void Jump()
