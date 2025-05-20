@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class ObjectPickup : MonoBehaviour
 {
-    bool ableToPickUp;
+    public bool ableToPickUp;
 
     public bool AbleToPickUp
     {
@@ -19,7 +19,7 @@ public class ObjectPickup : MonoBehaviour
 
         else if (collision.tag == "SmallFormHitbox")
         {
-            ableToPickUp = false;
+            ableToPickUp = true;
             //cant be picked up, too small
         }
     }
