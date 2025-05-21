@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: b38eee17fa22db349a7e14f729fbbba2
+guid: 90c4a23812988a54b9ea319235fda8a7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1096581442892615972
-    second: Village PNG_0
+      213: 366755736288873507
+    second: Housestaketwo_0
   - first:
-      213: -3543798762039373928
-    second: Village PNG_1
+      213: -8642687047340824649
+    second: Housestaketwo_1
   - first:
-      213: 53439039675987488
-    second: Village PNG_2
+      213: -8487006800013910681
+    second: Housestaketwo_2
   - first:
-      213: 2872642087788554379
-    second: Village PNG_3
+      213: 8595434714513337199
+    second: Housestaketwo_3
   - first:
-      213: -7724857483662209598
-    second: Village PNG_4
+      213: -864952703028215164
+    second: Housestaketwo_4
   - first:
-      213: 8254073412408088687
-    second: Village PNG_5
+      213: -7310132291328470446
+    second: Housestaketwo_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -141,133 +141,133 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Village PNG_0
+      name: Housestaketwo_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 618
-        width: 423
-        height: 299
+        x: 31
+        y: 653
+        width: 435
+        height: 366
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 13c9a01a47bbaab44be0b0654074bc49
-      internalID: -1186703799
+      spriteID: 32cc5d4266af61500800000000000000
+      internalID: 366755736288873507
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Village PNG_1
+      name: Housestaketwo_1
       rect:
         serializedVersion: 2
-        x: 472
-        y: 601
-        width: 541
-        height: 279
+        x: 503
+        y: 648
+        width: 498
+        height: 286
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b6f54a84c61525843bb4715c9017594e
-      internalID: 1069507981
+      spriteID: 7b7616edbe10f0880800000000000000
+      internalID: -8642687047340824649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Village PNG_2
+      name: Housestaketwo_2
       rect:
         serializedVersion: 2
-        x: 22
-        y: 297
-        width: 441
-        height: 273
+        x: 30
+        y: 359
+        width: 438
+        height: 242
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 75a546973e7b20341a2b856641e52958
-      internalID: 421965473
+      spriteID: 76d98de0848183a80800000000000000
+      internalID: -8487006800013910681
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Village PNG_3
+      name: Housestaketwo_3
       rect:
         serializedVersion: 2
-        x: 480
-        y: 286
-        width: 522
-        height: 273
+        x: 495
+        y: 359
+        width: 500
+        height: 250
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: aa738967d20cd184ba447bb852a81eb9
-      internalID: 1030734445
+      spriteID: f6be0a0155e194770800000000000000
+      internalID: 8595434714513337199
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Village PNG_4
+      name: Housestaketwo_4
       rect:
         serializedVersion: 2
-        x: 22
-        y: 0
-        width: 443
-        height: 256
+        x: 31
+        y: 69
+        width: 434
+        height: 243
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 39c980cf083585944807dd95130549fb
-      internalID: -772699278
+      spriteID: 4824d7c69121ff3f0800000000000000
+      internalID: -864952703028215164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Village PNG_5
+      name: Housestaketwo_5
       rect:
         serializedVersion: 2
-        x: 484
-        y: 0
-        width: 523
-        height: 263
+        x: 487
+        y: 67
+        width: 504
+        height: 246
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b87550c8761c9f249a03caae4aaffca1
-      internalID: -242465079
+      spriteID: 252114a69613d8a90800000000000000
+      internalID: -7310132291328470446
       vertices: []
       indices: 
       edges: []
@@ -276,7 +276,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b5a58a840fb16e64a8d536add3fd72cd
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -286,12 +286,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Village PNG_0: -1186703799
-      Village PNG_1: 1069507981
-      Village PNG_2: 421965473
-      Village PNG_3: 1030734445
-      Village PNG_4: -772699278
-      Village PNG_5: -242465079
+      Housestaketwo_0: 366755736288873507
+      Housestaketwo_1: -8642687047340824649
+      Housestaketwo_2: -8487006800013910681
+      Housestaketwo_3: 8595434714513337199
+      Housestaketwo_4: -864952703028215164
+      Housestaketwo_5: -7310132291328470446
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,25 +1,10 @@
 fileFormatVersion: 2
-guid: b38eee17fa22db349a7e14f729fbbba2
+guid: 76ee648137c1a794a9575e00a795ffc6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1096581442892615972
-    second: Village PNG_0
-  - first:
-      213: -3543798762039373928
-    second: Village PNG_1
-  - first:
-      213: 53439039675987488
-    second: Village PNG_2
-  - first:
-      213: 2872642087788554379
-    second: Village PNG_3
-  - first:
-      213: -7724857483662209598
-    second: Village PNG_4
-  - first:
-      213: 8254073412408088687
-    second: Village PNG_5
+      213: 7932798033344189819
+    second: grass_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -66,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -141,133 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Village PNG_0
+      name: grass_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 618
-        width: 423
-        height: 299
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 13c9a01a47bbaab44be0b0654074bc49
-      internalID: -1186703799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Village PNG_1
-      rect:
-        serializedVersion: 2
-        x: 472
-        y: 601
-        width: 541
-        height: 279
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b6f54a84c61525843bb4715c9017594e
-      internalID: 1069507981
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Village PNG_2
-      rect:
-        serializedVersion: 2
-        x: 22
-        y: 297
-        width: 441
-        height: 273
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75a546973e7b20341a2b856641e52958
-      internalID: 421965473
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Village PNG_3
-      rect:
-        serializedVersion: 2
-        x: 480
-        y: 286
-        width: 522
-        height: 273
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa738967d20cd184ba447bb852a81eb9
-      internalID: 1030734445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Village PNG_4
-      rect:
-        serializedVersion: 2
-        x: 22
+        x: 0
         y: 0
-        width: 443
-        height: 256
+        width: 1536
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 39c980cf083585944807dd95130549fb
-      internalID: -772699278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Village PNG_5
-      rect:
-        serializedVersion: 2
-        x: 484
-        y: 0
-        width: 523
-        height: 263
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b87550c8761c9f249a03caae4aaffca1
-      internalID: -242465079
+      spriteID: b75d56418c5f61e60800000000000000
+      internalID: 7932798033344189819
       vertices: []
       indices: 
       edges: []
@@ -276,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b5a58a840fb16e64a8d536add3fd72cd
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -285,13 +160,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Village PNG_0: -1186703799
-      Village PNG_1: 1069507981
-      Village PNG_2: 421965473
-      Village PNG_3: 1030734445
-      Village PNG_4: -772699278
-      Village PNG_5: -242465079
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
