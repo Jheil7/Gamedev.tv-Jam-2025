@@ -19,9 +19,6 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody2D playerRb;
     Vector2 rawInput;
     private bool facingLeft;
-    
-
-
 
 
     void Start()

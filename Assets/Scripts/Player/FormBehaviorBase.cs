@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public abstract class FormBehaviorBase : MonoBehaviour, IInteract
+public abstract class FormBehaviorBase : MonoBehaviour, IInteract, InteractF
 {
     protected enum CarryState
     {
@@ -19,6 +19,8 @@ public abstract class FormBehaviorBase : MonoBehaviour, IInteract
     protected Collider2D objectCol;
 
     protected CarryState currentState = CarryState.Idle;
+
+    protected InteractF nearbyFInteractable;
 
     protected virtual void Update()
     {
@@ -46,6 +48,14 @@ public abstract class FormBehaviorBase : MonoBehaviour, IInteract
             default:
                 // Do nothing in Idle
                 break;
+        }
+    }
+
+    public void InteractWithObjectF()
+    {
+        if (nearbyFInteractable != null)
+        {
+            nearbyFInteractable.InteractWithObjectF();
         }
     }
 
@@ -95,17 +105,22 @@ public abstract class FormBehaviorBase : MonoBehaviour, IInteract
         }
     }
 
-protected virtual void OnTriggerEnter2D(Collider2D collision)
-{
-    if (collision.CompareTag(targetTag))
+    protected virtual void OnTriggerEnter2D(Collider2D collision)
     {
-        objectToPickup = collision.GetComponent<ObjectPickup>();
-        if (objectToPickup != null && objectToPickup.AbleToPickUp && currentState == CarryState.Idle)
+        if (collision.CompareTag(targetTag))
         {
-            currentState = CarryState.ReadyToPickup;
+            objectToPickup = collision.GetComponent<ObjectPickup>();
+            if (objectToPickup != null && objectToPickup.AbleToPickUp && currentState == CarryState.Idle)
+            {
+                currentState = CarryState.ReadyToPickup;
+            }
+        }
+
+        if (collision.TryGetComponent(out InteractF interactF))
+        {
+            nearbyFInteractable = interactF;
         }
     }
-}
 
     protected virtual void OnTriggerExit2D(Collider2D collision)
     {
@@ -119,6 +134,12 @@ protected virtual void OnTriggerEnter2D(Collider2D collision)
             {
                 currentState = CarryState.Idle;
             }
+        }
+
+        if (collision.TryGetComponent(out InteractF interactF) &&
+        interactF == nearbyFInteractable)
+        {
+            nearbyFInteractable = null;
         }
     }
 }

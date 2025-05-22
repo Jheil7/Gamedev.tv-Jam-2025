@@ -3,33 +3,27 @@ using TMPro;
 
 public class TooltipManager : MonoBehaviour
 {
-    public static TooltipManager Instance { get; private set; }
+    public static TooltipManager Instance;
 
-    public GameObject tooltipPrefab;
-    private GameObject currentTooltip;
+    [SerializeField] private GameObject tooltipPanel;
+    [SerializeField] private TMP_Text tooltipText;
 
-    void Awake()
+    private void Awake()
     {
-        if (Instance != null && Instance != this)
-        {
-            Destroy(gameObject);
-            return;
-        }
-
+        if (Instance != null) Destroy(gameObject);
         Instance = this;
+
+        tooltipPanel.SetActive(false);
     }
 
-    public void ShowTooltip(TooltipData data, Vector3 worldPosition)
+    public void ShowTooltip(string message)
     {
-        if (currentTooltip != null) Destroy(currentTooltip);
-
-        currentTooltip = Instantiate(tooltipPrefab, worldPosition + Vector3.up * 1.5f, Quaternion.identity);
-        currentTooltip.GetComponentInChildren<TMP_Text>().text = data.tooltipText;
+        tooltipText.text = message;
+        tooltipPanel.SetActive(true);
     }
 
     public void HideTooltip()
     {
-        if (currentTooltip != null)
-            Destroy(currentTooltip);
+        tooltipPanel.SetActive(false);
     }
 }

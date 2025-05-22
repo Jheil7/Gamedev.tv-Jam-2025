@@ -2,19 +2,19 @@ using UnityEngine;
 
 public class TooltipDetectionSmall : MonoBehaviour
 {
-    public TooltipData tooltipData;
+    [SerializeField] private TooltipData tooltipData;
 
-    void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("SmallFormHitbox"))
+        if (other.CompareTag("SmallFormHitbox") && tooltipData != null)
         {
-            TooltipManager.Instance.ShowTooltip(tooltipData, transform.position);
+            TooltipManager.Instance.ShowTooltip(tooltipData.tooltipText);
         }
     }
 
-    void OnTriggerExit2D(Collider2D other)
+    private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.CompareTag("SmallFormHitBox"))
+        if (other.CompareTag("SmallFormHitbox"))
         {
             TooltipManager.Instance.HideTooltip();
         }

@@ -11,9 +11,20 @@ public class FormSwap : MonoBehaviour
     [SerializeField] CinemachineCamera zoomedOutCam;
 
     private IInteract currentForm;
+    private InteractF currentFormF;
+    public bool bigFormUnlocked;
+
+    [SerializeField] private FormBehaviorBase currentFormBehavior;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public bool BigFormUnlocked
+    {
+        get { return bigFormUnlocked; }
+        set { bigFormUnlocked = value; }  
+    }
+
     void Start()
     {
+        bigFormUnlocked = false;
         SetActiveForm(0);
         SwitchToZoomedIn();
     }
@@ -39,7 +50,7 @@ public class FormSwap : MonoBehaviour
     public void OnSecondaryFire(InputValue value)
     {
         //set active form to big form
-        if (value.isPressed)
+        if (value.isPressed&&bigFormUnlocked)
         {
             SetActiveForm(1);
             SwitchToZoomedOut();
@@ -51,6 +62,14 @@ public class FormSwap : MonoBehaviour
         if (value.isPressed)
         {
             currentForm?.InteractWithObject();
+        }
+    }
+
+    public void OnInteractF(InputValue value)
+    {
+        if (value.isPressed)
+        {
+            currentFormBehavior?.InteractWithObjectF();
         }
     }
 
@@ -71,8 +90,10 @@ public class FormSwap : MonoBehaviour
         {
             formList[i].SetActive(i == index);
         }
-
-        currentForm = formList[index].GetComponent<IInteract>();
+        GameObject activeForm = formList[index];
+        currentForm = activeForm.GetComponent<IInteract>();
+        currentFormF = activeForm.GetComponent<InteractF>();
+        currentFormBehavior = activeForm.GetComponent<FormBehaviorBase>();
     }
 
 
