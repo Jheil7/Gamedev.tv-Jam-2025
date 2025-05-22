@@ -26,7 +26,6 @@ public class Lock : MonoBehaviour, InteractF
         if (collision.tag == "SmallFormHitbox")
         {
             player = collision.transform.root.gameObject;
-            Debug.Log("found player");
         }
     }
 }
