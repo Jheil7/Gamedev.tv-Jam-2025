@@ -12,6 +12,7 @@ public abstract class FormBehaviorBase : MonoBehaviour, IInteract, InteractF
 
     [SerializeField] protected Transform playerHands;
     [SerializeField] protected string targetTag = "MovableSmall";
+    [SerializeField] protected Animator animator;
 
     protected ObjectPickup objectToPickup;
     protected GameObject objectBeingHeld;
@@ -32,16 +33,20 @@ public abstract class FormBehaviorBase : MonoBehaviour, IInteract, InteractF
 
     public virtual void InteractWithObject()
     {
+        animator.Play("GrandyeGrabAnim");
+        animator.StopPlayback();
         switch (currentState)
         {
             case CarryState.ReadyToPickup:
                 if (objectToPickup != null && objectToPickup.AbleToPickUp)
                 {
+                    animator.SetBool("hasObject", true);
                     PickUpObject();
                 }
                 break;
 
             case CarryState.Carrying:
+                animator.SetBool("hasObject", false);
                 DropObject();
                 break;
 

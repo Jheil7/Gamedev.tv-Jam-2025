@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.Controls;
 using UnityEngine.UI;
 
 public class PlayerMovement : MonoBehaviour
@@ -10,7 +11,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float coyoteTime = 0.1f;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private float checkRadius = 0.2f;
-    public bool hasJumpedThisFrame=false;
+    public bool hasJumpedThisFrame = false;
     [SerializeField] LayerMask groundLayer;
     private float jumpBufferCounter;
     private float coyoteTimeCounter;
@@ -19,6 +20,7 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody2D playerRb;
     Vector2 rawInput;
     private bool facingLeft;
+    [SerializeField] Animator animator;
 
 
     void Start()
@@ -34,21 +36,21 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        
+
     }
 
-    public void OnMove(InputValue value){
-        rawInput=value.Get<Vector2>();
-        if(rawInput.x > 0 && facingLeft) Flip();
-        if(rawInput.x < 0 && !facingLeft) Flip();
+    public void OnMove(InputValue value) {
+        rawInput = value.Get<Vector2>();
+        if (rawInput.x > 0 && facingLeft) Flip();
+        if (rawInput.x < 0 && !facingLeft) Flip();
     }
 
     void PlayerMove()
     {
         Vector2 delta = rawInput * playerMoveSpeed;
         playerRb.linearVelocity = new Vector2(delta.x, playerRb.linearVelocityY);
-        // if(delta.x != 0) animator.SetFloat("speed", 1f);
-        // else animator.SetFloat("speed", 0f);            
+        if (delta.x != 0) animator.SetFloat("speed", 1f);
+        else animator.SetFloat("speed", 0f);
     }
 
     void Flip() {
@@ -85,13 +87,17 @@ public class PlayerMovement : MonoBehaviour
     }
 
     void CheckGrounding()
-    { 
+    {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, groundLayer);
 
-        if (isGrounded)
+        if (isGrounded) {
             coyoteTimeCounter = coyoteTime;
-        else
+            animator.SetBool("jump", false);
+        }
+        else { 
+            animator.SetBool("jump", true);
             coyoteTimeCounter -= Time.deltaTime;
+        }
     }
     void LateUpdate()
     {

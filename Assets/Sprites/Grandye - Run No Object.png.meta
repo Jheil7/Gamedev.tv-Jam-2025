@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: 3372781495f6a1c4b991e3beb632ceb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6424059097457577301
+    second: Grandye - Run No Object_0
+  - first:
+      213: -3186086246141073622
+    second: Grandye - Run No Object_1
+  - first:
+      213: 6350051914810895594
+    second: Grandye - Run No Object_2
+  - first:
+      213: -7732502025846023153
+    second: Grandye - Run No Object_3
+  - first:
+      213: -8781356382879743287
+    second: Grandye - Run No Object_4
+  - first:
+      213: 5979498979323411473
+    second: Grandye - Run No Object_5
+  - first:
+      213: -903455128545915190
+    second: Grandye - Run No Object_6
+  - first:
+      213: -2237499712438010004
+    second: Grandye - Run No Object_7
+  - first:
+      213: 4831453275103104850
+    second: Grandye - Run No Object_8
+  - first:
+      213: -3335192012340423138
+    second: Grandye - Run No Object_9
+  - first:
+      213: 9086564561210196438
+    second: Grandye - Run No Object_10
+  - first:
+      213: 8212317006568919252
+    second: Grandye - Run No Object_11
+  - first:
+      213: 7365975472528906890
+    second: Grandye - Run No Object_12
+  - first:
+      213: 2541684748005352582
+    second: Grandye - Run No Object_13
+  - first:
+      213: -5746578089303309082
+    second: Grandye - Run No Object_14
+  - first:
+      213: 1686768179171330846
+    second: Grandye - Run No Object_15
+  - first:
+      213: -7094328197251661555
+    second: Grandye - Run No Object_16
+  - first:
+      213: -6608734385210982248
+    second: Grandye - Run No Object_17
+  - first:
+      213: 5071218100983045923
+    second: Grandye - Run No Object_18
+  - first:
+      213: 5934272127356613435
+    second: Grandye - Run No Object_19
+  - first:
+      213: -6790776846327628453
+    second: Grandye - Run No Object_20
+  - first:
+      213: 7796495278066606769
+    second: Grandye - Run No Object_21
+  - first:
+      213: -4522156658611000532
+    second: Grandye - Run No Object_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grandye - Run No Object_0
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1920
+        width: 77
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d431886b7d62950800000000000000
+      internalID: 6424059097457577301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1921
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27e003907fb8c3d0800000000000000
+      internalID: -3186086246141073622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1921
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeca79f829aef1850800000000000000
+      internalID: 6350051914810895594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_3
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1921
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c95744062a0b490800000000000000
+      internalID: -7732502025846023153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_4
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1919
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2085835ea522680800000000000000
+      internalID: -8781356382879743287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_5
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1918
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cf16514a27bf250800000000000000
+      internalID: 5979498979323411473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_6
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1918
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace0488e8584673f0800000000000000
+      internalID: -903455128545915190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_7
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1917
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ff717cdddc2f0e0800000000000000
+      internalID: -2237499712438010004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1660
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f0b63d725cc0340800000000000000
+      internalID: 4831453275103104850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1660
+        width: 72
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e169abe098407b1d0800000000000000
+      internalID: -3335192012340423138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1658
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d146936356f91e70800000000000000
+      internalID: 9086564561210196438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_11
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1661
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d090778ec208f170800000000000000
+      internalID: 8212317006568919252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_12
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1663
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a53586aa3393660800000000000000
+      internalID: 7365975472528906890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_13
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1666
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68423e7dfc0e54320800000000000000
+      internalID: 2541684748005352582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_14
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1664
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e48809acad0040b0800000000000000
+      internalID: -5746578089303309082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_15
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1664
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b80f9d8ba986710800000000000000
+      internalID: 1686768179171330846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1407
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0107ca8712eb8d90800000000000000
+      internalID: -7094328197251661555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1406
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890079a571f0944a0800000000000000
+      internalID: -6608734385210982248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_18
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1405
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f10af8ef5906640800000000000000
+      internalID: 5071218100983045923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_19
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1404
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33b7970f05ca5250800000000000000
+      internalID: 5934272127356613435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_20
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1406
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5db1b5ff6052c1a0800000000000000
+      internalID: -6790776846327628453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_21
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1406
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2ab26d527b23c60800000000000000
+      internalID: 7796495278066606769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grandye - Run No Object_22
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1408
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2be2d87a721e31c0800000000000000
+      internalID: -4522156658611000532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
