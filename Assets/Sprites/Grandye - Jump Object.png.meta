@@ -153,6 +153,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -609,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grandye - Jump Object_0: 8078575726780761667
+      Grandye - Jump Object_1: -9022900913926979403
+      Grandye - Jump Object_10: 6464889780206368381
+      Grandye - Jump Object_11: 1605218167898244092
+      Grandye - Jump Object_12: -347873627435883312
+      Grandye - Jump Object_13: 4455429360253405904
+      Grandye - Jump Object_14: -6102572830970339391
+      Grandye - Jump Object_15: -8306506597123244649
+      Grandye - Jump Object_16: -3814469760265035893
+      Grandye - Jump Object_17: 5170950474372450053
+      Grandye - Jump Object_18: 8639547440898497003
+      Grandye - Jump Object_19: -1914938536777276956
+      Grandye - Jump Object_2: -2665175319406776245
+      Grandye - Jump Object_3: -4525697603896033632
+      Grandye - Jump Object_4: 7425810003749021109
+      Grandye - Jump Object_5: 8284550730638557567
+      Grandye - Jump Object_6: -7729971595453490371
+      Grandye - Jump Object_7: 3627622622723308024
+      Grandye - Jump Object_8: 4831326718693030157
+      Grandye - Jump Object_9: -1084277293665519110
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

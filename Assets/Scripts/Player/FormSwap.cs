@@ -73,7 +73,7 @@ public class FormSwap : MonoBehaviour
         }
     }
 
-    private void SetActiveForm(int index)
+    public void SetActiveForm(int index)
     {
         // Drop any held object before swapping forms
         foreach (GameObject form in formList)

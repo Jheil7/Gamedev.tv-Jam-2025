@@ -144,6 +144,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -534,7 +560,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grandye - Idle Object_0: -463897141910160044
+      Grandye - Idle Object_1: 354228566813988932
+      Grandye - Idle Object_10: -8077579132653531413
+      Grandye - Idle Object_11: -8111361645715502191
+      Grandye - Idle Object_12: -8787959555822791416
+      Grandye - Idle Object_13: -8458303652678960471
+      Grandye - Idle Object_14: 6220253776998767083
+      Grandye - Idle Object_15: -3295891419608129222
+      Grandye - Idle Object_16: 3265824107458593484
+      Grandye - Idle Object_2: -8716283285044675246
+      Grandye - Idle Object_3: 190220395952512168
+      Grandye - Idle Object_4: -335510293391146911
+      Grandye - Idle Object_5: -8869977114362704838
+      Grandye - Idle Object_6: 2967442206174957485
+      Grandye - Idle Object_7: -974462136734404062
+      Grandye - Idle Object_8: -6820103652802315322
+      Grandye - Idle Object_9: 6453249451071339456
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

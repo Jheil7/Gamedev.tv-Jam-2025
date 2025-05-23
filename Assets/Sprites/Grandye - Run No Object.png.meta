@@ -162,6 +162,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -684,7 +710,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grandye - Run No Object_0: 6424059097457577301
+      Grandye - Run No Object_1: -3186086246141073622
+      Grandye - Run No Object_10: 9086564561210196438
+      Grandye - Run No Object_11: 8212317006568919252
+      Grandye - Run No Object_12: 7365975472528906890
+      Grandye - Run No Object_13: 2541684748005352582
+      Grandye - Run No Object_14: -5746578089303309082
+      Grandye - Run No Object_15: 1686768179171330846
+      Grandye - Run No Object_16: -7094328197251661555
+      Grandye - Run No Object_17: -6608734385210982248
+      Grandye - Run No Object_18: 5071218100983045923
+      Grandye - Run No Object_19: 5934272127356613435
+      Grandye - Run No Object_2: 6350051914810895594
+      Grandye - Run No Object_20: -6790776846327628453
+      Grandye - Run No Object_21: 7796495278066606769
+      Grandye - Run No Object_22: -4522156658611000532
+      Grandye - Run No Object_3: -7732502025846023153
+      Grandye - Run No Object_4: -8781356382879743287
+      Grandye - Run No Object_5: 5979498979323411473
+      Grandye - Run No Object_6: -903455128545915190
+      Grandye - Run No Object_7: -2237499712438010004
+      Grandye - Run No Object_8: 4831453275103104850
+      Grandye - Run No Object_9: -3335192012340423138
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

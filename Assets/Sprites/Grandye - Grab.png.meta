@@ -150,6 +150,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -584,7 +610,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grandye - Grab_0: 4774971601177399119
+      Grandye - Grab_1: 1103875389288193066
+      Grandye - Grab_10: -8591278670852858420
+      Grandye - Grab_11: -3677175842660861269
+      Grandye - Grab_12: -536642166851268649
+      Grandye - Grab_13: -7708299324482245206
+      Grandye - Grab_14: -5506721517056084125
+      Grandye - Grab_15: 3672259462505606288
+      Grandye - Grab_16: 529759722347239131
+      Grandye - Grab_17: 2390277984958738234
+      Grandye - Grab_18: 1242705425001898208
+      Grandye - Grab_2: 1103284764299515803
+      Grandye - Grab_3: 4779963436917562175
+      Grandye - Grab_4: 7718796563102527069
+      Grandye - Grab_5: -2028903861705369326
+      Grandye - Grab_6: 2470213564441694623
+      Grandye - Grab_7: -1859878875018644234
+      Grandye - Grab_8: -2127212147879222707
+      Grandye - Grab_9: 5712783509707350827
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

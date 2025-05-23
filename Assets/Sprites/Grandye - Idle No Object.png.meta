@@ -186,6 +186,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -884,7 +910,38 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Grandye - Idle No Object_0: -3892389151919696895
+      Grandye - Idle No Object_1: -3361251258105880926
+      Grandye - Idle No Object_10: -8527578888560193591
+      Grandye - Idle No Object_11: -9189323223304581054
+      Grandye - Idle No Object_12: -8459255074991087131
+      Grandye - Idle No Object_13: 3210531146197160578
+      Grandye - Idle No Object_14: 8835152554951826210
+      Grandye - Idle No Object_15: -1554003980315703837
+      Grandye - Idle No Object_16: -6688559699792589050
+      Grandye - Idle No Object_17: -1936533339863713255
+      Grandye - Idle No Object_18: -309345057554695084
+      Grandye - Idle No Object_19: 6452656993732611876
+      Grandye - Idle No Object_2: -3152301334190795865
+      Grandye - Idle No Object_20: -5922299786602557609
+      Grandye - Idle No Object_21: -7881631270575532892
+      Grandye - Idle No Object_22: -8198457744381548443
+      Grandye - Idle No Object_23: 8234929191295706590
+      Grandye - Idle No Object_24: -5146457432089631591
+      Grandye - Idle No Object_25: 2107796267522927880
+      Grandye - Idle No Object_26: 8096834208862238604
+      Grandye - Idle No Object_27: 7804664978128981879
+      Grandye - Idle No Object_28: 6676784412835400403
+      Grandye - Idle No Object_29: 3177743704980273244
+      Grandye - Idle No Object_3: 4901406112103799579
+      Grandye - Idle No Object_30: 9142856629590102507
+      Grandye - Idle No Object_4: -1430619502432968648
+      Grandye - Idle No Object_5: -8939476008716898877
+      Grandye - Idle No Object_6: -7681764729918969484
+      Grandye - Idle No Object_7: -3908146373762558205
+      Grandye - Idle No Object_8: 7209585721276672120
+      Grandye - Idle No Object_9: 7851044699621767215
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
