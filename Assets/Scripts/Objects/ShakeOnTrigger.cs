@@ -8,7 +8,6 @@ public class ShakeOnTrigger : MonoBehaviour
     public float shakeSpeed = 20f;           // How fast it shakes
 
     public float timer = 0f;
-    private bool playerInside = false;
     private Vector3 originalPos;
     private Collider2D col;
     public float colliderResetDelay = 3f;
@@ -21,9 +20,10 @@ public class ShakeOnTrigger : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("SmallFormHitbox"))
+        if (other.CompareTag("BigFormHitbox"))
         {
-            playerInside = true;
+            col.enabled = false;
+            StartCoroutine(ReenableColliderAfterDelay());
         }
     }
 
@@ -31,7 +31,6 @@ public class ShakeOnTrigger : MonoBehaviour
     {
         if (other.CompareTag("SmallFormHitbox") || other.CompareTag("BigFormHitbox"))
         {
-            playerInside = false;
             timer = 0f;
             transform.localPosition = originalPos;
         }
