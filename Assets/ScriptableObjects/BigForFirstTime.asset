@@ -10,6 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d037a3977b58dfb45b244aff889971dc, type: 3}
-  m_Name: BucketIntro
+  m_Name: BigForFirstTime
   m_EditorClassIdentifier: 
-  tooltipText: Press "F" to interact with certain obstacles.
+  tooltipText: You can now swap between Small Form (left click) and Big Form (right
+    click).

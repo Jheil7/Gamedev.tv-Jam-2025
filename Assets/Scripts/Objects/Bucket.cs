@@ -8,11 +8,15 @@ public class Bucket : MonoBehaviour, InteractF
     public Transform bucketSeatPoint;
     public GameObject wellGameObject;
     bool isAtTop;
+    bool canGetIn=true;
 
     public void InteractWithObjectF()
     {
-        Debug.Log("you get in the bucket");
-        player.transform.position = bucketSeatPoint.position;
+        if (canGetIn)
+        { 
+            player.transform.position = bucketSeatPoint.position;
+        }
+        
         player.GetComponentInParent<PlayerInput>().enabled = false;
         if (!isAtTop)
         {
@@ -24,7 +28,7 @@ public class Bucket : MonoBehaviour, InteractF
             GetComponent<Animator>().SetTrigger("LowerBucket");
             isAtTop = false;
         }
-        
+
     }
 
     public void FinishLift()
@@ -43,6 +47,11 @@ public class Bucket : MonoBehaviour, InteractF
         if (collision.tag == "SmallFormHitbox")
         {
             player = collision.transform.root.gameObject;
+            canGetIn = true;
+        }
+        else if (collision.tag == "BigFormHitbox")
+        {
+            canGetIn=false;
         }
     }
 

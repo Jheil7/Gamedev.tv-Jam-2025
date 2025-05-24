@@ -4,6 +4,7 @@ using UnityEngine;
 public class LockManager : MonoBehaviour
 {
     public static LockManager Instance;
+    [SerializeField] GameStateManager gameStateManager;
 
     public List<int> correctOrder = new List<int> { 2, 1, 3, 5, 4 };
 
@@ -38,6 +39,7 @@ public class LockManager : MonoBehaviour
 
     private void Unlock()
     {
+        gameStateManager.lockPickCompleted = true;
         Debug.Log("Lock opened!");
         // Door open animation, cutscene, etc.
     }
