@@ -6,6 +6,7 @@ using UnityEngine.InputSystem;
 public class FormSwap : MonoBehaviour
 {
     [SerializeField] List<GameObject> formList;
+    [SerializeField] private PlayerAudio audioController;
     
     [SerializeField] CinemachineCamera zoomedInCam;
     [SerializeField] CinemachineCamera zoomedOutCam;
@@ -82,6 +83,10 @@ public class FormSwap : MonoBehaviour
             {
                 var dropper = form.GetComponent<FormBehaviorBase>();
                 dropper?.ForceDropIfCarrying();
+
+                audioController.SetForm(index == 0 
+                ? PlayerAudio.PlayerForm.Small 
+                : PlayerAudio.PlayerForm.Big);
             }
         }
 

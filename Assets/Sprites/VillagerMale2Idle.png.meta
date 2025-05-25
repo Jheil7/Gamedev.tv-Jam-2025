@@ -285,6 +285,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1709,7 +1735,71 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VillagerMale2Idle_0: 1940662467367513297
+      VillagerMale2Idle_1: 5872510462307860548
+      VillagerMale2Idle_10: -2460384589219112548
+      VillagerMale2Idle_11: -3544333690426364743
+      VillagerMale2Idle_12: 5671714394591262069
+      VillagerMale2Idle_13: 5723958677140399336
+      VillagerMale2Idle_14: -8839061114268327946
+      VillagerMale2Idle_15: -3136169383005851932
+      VillagerMale2Idle_16: -3548746309619514959
+      VillagerMale2Idle_17: -5804612351083412409
+      VillagerMale2Idle_18: 1215390915772923990
+      VillagerMale2Idle_19: 8482771203331837392
+      VillagerMale2Idle_2: -7524013886304524465
+      VillagerMale2Idle_20: 8925470106689930870
+      VillagerMale2Idle_21: 8570219401684515495
+      VillagerMale2Idle_22: 5698538087294440121
+      VillagerMale2Idle_23: 2905810090489811768
+      VillagerMale2Idle_24: -3640837020122997064
+      VillagerMale2Idle_25: 3121634531290232843
+      VillagerMale2Idle_26: -8386161580232144762
+      VillagerMale2Idle_27: 8752744075119661360
+      VillagerMale2Idle_28: 8718469247162581761
+      VillagerMale2Idle_29: 1330638109346912286
+      VillagerMale2Idle_3: 8403362648344007879
+      VillagerMale2Idle_30: 5885289443290201375
+      VillagerMale2Idle_31: -2754530667165344551
+      VillagerMale2Idle_32: 4292950163196673763
+      VillagerMale2Idle_33: -8141038809234707428
+      VillagerMale2Idle_34: 724652923471756127
+      VillagerMale2Idle_35: 2180258316183056888
+      VillagerMale2Idle_36: 288121309760635837
+      VillagerMale2Idle_37: 1261450419134112770
+      VillagerMale2Idle_38: 5131149385971963567
+      VillagerMale2Idle_39: -8713486799734818728
+      VillagerMale2Idle_4: 2374950750016094258
+      VillagerMale2Idle_40: 2909945834002547107
+      VillagerMale2Idle_41: 8484241309501720066
+      VillagerMale2Idle_42: 7398789171816065772
+      VillagerMale2Idle_43: -3019587045666126821
+      VillagerMale2Idle_44: -8924117746178799336
+      VillagerMale2Idle_45: -1290602106298674915
+      VillagerMale2Idle_46: 3835073376682304796
+      VillagerMale2Idle_47: -6401897530345334517
+      VillagerMale2Idle_48: 6347591456335387819
+      VillagerMale2Idle_49: -8735913891657083942
+      VillagerMale2Idle_5: 656040805767000859
+      VillagerMale2Idle_50: 5085637924292861763
+      VillagerMale2Idle_51: -4412741240899395642
+      VillagerMale2Idle_52: -4105169943797736049
+      VillagerMale2Idle_53: -1385125471177283168
+      VillagerMale2Idle_54: 2086402812092100000
+      VillagerMale2Idle_55: -1840231817919138340
+      VillagerMale2Idle_56: 5601224160814076586
+      VillagerMale2Idle_57: 7103532527674563193
+      VillagerMale2Idle_58: 7164392258162236843
+      VillagerMale2Idle_59: -6554120510738548238
+      VillagerMale2Idle_6: 1602823138440418667
+      VillagerMale2Idle_60: -5934077657084875642
+      VillagerMale2Idle_61: -4523299111095855000
+      VillagerMale2Idle_62: -1958837384098535408
+      VillagerMale2Idle_63: -8878028142453718301
+      VillagerMale2Idle_7: 4636181387412072491
+      VillagerMale2Idle_8: 6835582022657283090
+      VillagerMale2Idle_9: 2814073065642328037
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

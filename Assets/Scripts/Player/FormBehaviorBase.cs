@@ -43,6 +43,7 @@ public abstract class FormBehaviorBase : MonoBehaviour, IInteract, InteractF
                     animator.SetBool("hasObject", true);
                     PickUpObject();
                 }
+
                 break;
 
             case CarryState.Carrying:

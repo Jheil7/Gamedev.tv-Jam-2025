@@ -243,6 +243,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1359,7 +1385,57 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VillagerGirlBrunetteIdle_0: 4188531598987006690
+      VillagerGirlBrunetteIdle_1: -931934218303600765
+      VillagerGirlBrunetteIdle_10: 4880087658987302320
+      VillagerGirlBrunetteIdle_11: -4349218485499780488
+      VillagerGirlBrunetteIdle_12: 6517867860002913603
+      VillagerGirlBrunetteIdle_13: 5334419760058942532
+      VillagerGirlBrunetteIdle_14: 8234298109295877210
+      VillagerGirlBrunetteIdle_15: -8115786820782511761
+      VillagerGirlBrunetteIdle_16: -6958098720348077949
+      VillagerGirlBrunetteIdle_17: -5511772261030548204
+      VillagerGirlBrunetteIdle_18: -5596889124744476176
+      VillagerGirlBrunetteIdle_19: -3226671207383678744
+      VillagerGirlBrunetteIdle_2: 1245458737897823916
+      VillagerGirlBrunetteIdle_20: -8421587982396688681
+      VillagerGirlBrunetteIdle_21: 5638833415779447609
+      VillagerGirlBrunetteIdle_22: 8583454169093872247
+      VillagerGirlBrunetteIdle_23: -8487826403349096310
+      VillagerGirlBrunetteIdle_24: 5413086858923608178
+      VillagerGirlBrunetteIdle_25: -5639002130423987076
+      VillagerGirlBrunetteIdle_26: -5799738920793566615
+      VillagerGirlBrunetteIdle_27: -1438523103873218141
+      VillagerGirlBrunetteIdle_28: -7330786716481295694
+      VillagerGirlBrunetteIdle_29: -8839845672814682386
+      VillagerGirlBrunetteIdle_3: -2449595251821390395
+      VillagerGirlBrunetteIdle_30: -7075551896136940770
+      VillagerGirlBrunetteIdle_31: 128600388538523562
+      VillagerGirlBrunetteIdle_32: -4175623150159492655
+      VillagerGirlBrunetteIdle_33: -8500117431849665132
+      VillagerGirlBrunetteIdle_34: -327521496892751502
+      VillagerGirlBrunetteIdle_35: -4831953202813831972
+      VillagerGirlBrunetteIdle_36: 6435371559085545835
+      VillagerGirlBrunetteIdle_37: 7761627849016068028
+      VillagerGirlBrunetteIdle_38: -8794747359193193596
+      VillagerGirlBrunetteIdle_39: -7505180754609664563
+      VillagerGirlBrunetteIdle_4: 9055861875026725881
+      VillagerGirlBrunetteIdle_40: 7788002250415830793
+      VillagerGirlBrunetteIdle_41: 2870732557692229427
+      VillagerGirlBrunetteIdle_42: -3539242344614332145
+      VillagerGirlBrunetteIdle_43: -6745262678044717709
+      VillagerGirlBrunetteIdle_44: 6554414401616065073
+      VillagerGirlBrunetteIdle_45: -5092486140682096288
+      VillagerGirlBrunetteIdle_46: -4935071040485132210
+      VillagerGirlBrunetteIdle_47: 2780160188732261913
+      VillagerGirlBrunetteIdle_48: 7650763586126968631
+      VillagerGirlBrunetteIdle_49: -9044053258709935722
+      VillagerGirlBrunetteIdle_5: -3225585963446346125
+      VillagerGirlBrunetteIdle_6: 3053447020674114104
+      VillagerGirlBrunetteIdle_7: 4176905639178294656
+      VillagerGirlBrunetteIdle_8: -5081757493698314755
+      VillagerGirlBrunetteIdle_9: 2315854915049502572
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

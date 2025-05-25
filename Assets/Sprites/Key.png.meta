@@ -1,157 +1,139 @@
 fileFormatVersion: 2
-guid: 4c3d57d983db73a42a959d87a402a3a5
+guid: a344adfa8126c9d44b4d551fd0ebb8c4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4394905288021101604
-    second: VillagerGirlBlondeIdle_0
+      213: 1694913177206695654
+    second: Key_0
   - first:
-      213: -930540392629752545
-    second: VillagerGirlBlondeIdle_1
+      213: 1349380382610176929
+    second: Key_1
   - first:
-      213: -2388468463715592065
-    second: VillagerGirlBlondeIdle_2
+      213: -7993208405712638566
+    second: Key_2
   - first:
-      213: 1641924381254694476
-    second: VillagerGirlBlondeIdle_3
+      213: 6381051765275584983
+    second: Key_3
   - first:
-      213: -90998655858219797
-    second: VillagerGirlBlondeIdle_4
+      213: -8101026205411825695
+    second: Key_4
   - first:
-      213: 5891104272590331455
-    second: VillagerGirlBlondeIdle_5
+      213: -1738318630372558329
+    second: Key_5
   - first:
-      213: 5233134406736619102
-    second: VillagerGirlBlondeIdle_6
+      213: 8990860109403730403
+    second: Key_6
   - first:
-      213: 7788689729153556857
-    second: VillagerGirlBlondeIdle_7
+      213: 1727693337792935050
+    second: Key_7
   - first:
-      213: -4231243902940664459
-    second: VillagerGirlBlondeIdle_8
+      213: -7361770403183060060
+    second: Key_8
   - first:
-      213: 356520708779235694
-    second: VillagerGirlBlondeIdle_9
+      213: -6214314221106435875
+    second: Key_9
   - first:
-      213: -2316058848020121381
-    second: VillagerGirlBlondeIdle_10
+      213: 7354032082012461214
+    second: Key_10
   - first:
-      213: 1839238071984291280
-    second: VillagerGirlBlondeIdle_11
+      213: -7266807791909604842
+    second: Key_11
   - first:
-      213: 4958018877986297863
-    second: VillagerGirlBlondeIdle_12
+      213: 2127360546548461396
+    second: Key_12
   - first:
-      213: 5604817916565257387
-    second: VillagerGirlBlondeIdle_13
+      213: 4723050390418457423
+    second: Key_13
   - first:
-      213: -2448352638848740000
-    second: VillagerGirlBlondeIdle_14
+      213: -3754693688782894677
+    second: Key_14
   - first:
-      213: 7457238776890303543
-    second: VillagerGirlBlondeIdle_15
+      213: -8961646198830562778
+    second: Key_15
   - first:
-      213: -1422748925261514276
-    second: VillagerGirlBlondeIdle_16
+      213: -112993102688102086
+    second: Key_16
   - first:
-      213: 4248696802713421158
-    second: VillagerGirlBlondeIdle_17
+      213: 146156762417531186
+    second: Key_17
   - first:
-      213: -2020438343724708800
-    second: VillagerGirlBlondeIdle_18
+      213: -6624520431464999959
+    second: Key_18
   - first:
-      213: -3546131806584261016
-    second: VillagerGirlBlondeIdle_19
+      213: -3355020450909385563
+    second: Key_19
   - first:
-      213: 574883354325821084
-    second: VillagerGirlBlondeIdle_20
+      213: -1007335685189692541
+    second: Key_20
   - first:
-      213: -1021625118382076565
-    second: VillagerGirlBlondeIdle_21
+      213: 9079739098713009268
+    second: Key_21
   - first:
-      213: -7323694195675242730
-    second: VillagerGirlBlondeIdle_22
+      213: -3321032492709711912
+    second: Key_22
   - first:
-      213: 4852056532775709772
-    second: VillagerGirlBlondeIdle_23
+      213: -1563403990204678935
+    second: Key_23
   - first:
-      213: -2287381109251959157
-    second: VillagerGirlBlondeIdle_24
+      213: 6104707851110741874
+    second: Key_24
   - first:
-      213: -5954869894261401399
-    second: VillagerGirlBlondeIdle_25
+      213: -8694321448507498721
+    second: Key_25
   - first:
-      213: 1964622758448114864
-    second: VillagerGirlBlondeIdle_26
+      213: 4192034156473021210
+    second: Key_26
   - first:
-      213: 6606358353100313627
-    second: VillagerGirlBlondeIdle_27
+      213: 8451985705198498486
+    second: Key_27
   - first:
-      213: 7215344737050851339
-    second: VillagerGirlBlondeIdle_28
+      213: 6261627374045686985
+    second: Key_28
   - first:
-      213: -1951769806707589445
-    second: VillagerGirlBlondeIdle_29
+      213: 560553422227409901
+    second: Key_29
   - first:
-      213: 5903671865276560949
-    second: VillagerGirlBlondeIdle_30
+      213: 3449028553594232543
+    second: Key_30
   - first:
-      213: 727543045644151841
-    second: VillagerGirlBlondeIdle_31
+      213: -1230455852618440009
+    second: Key_31
   - first:
-      213: 4152257550309635322
-    second: VillagerGirlBlondeIdle_32
+      213: 3781393623717292068
+    second: Key_32
   - first:
-      213: -9174702033918252997
-    second: VillagerGirlBlondeIdle_33
+      213: 6725362433198295014
+    second: Key_33
   - first:
-      213: 2130690657458877297
-    second: VillagerGirlBlondeIdle_34
+      213: -2454770830115259386
+    second: Key_34
   - first:
-      213: -7769509601410391780
-    second: VillagerGirlBlondeIdle_35
+      213: 70768550128571946
+    second: Key_35
   - first:
-      213: -6030651144544709557
-    second: VillagerGirlBlondeIdle_36
+      213: -3912419477080012433
+    second: Key_36
   - first:
-      213: -7578920285982026578
-    second: VillagerGirlBlondeIdle_37
+      213: -7371735762917049994
+    second: Key_37
   - first:
-      213: -332826640030342069
-    second: VillagerGirlBlondeIdle_38
+      213: -3177901720906996050
+    second: Key_38
   - first:
-      213: 3673421464181288534
-    second: VillagerGirlBlondeIdle_39
+      213: -5680499927441459185
+    second: Key_39
   - first:
-      213: 3139842147509526048
-    second: VillagerGirlBlondeIdle_40
+      213: 2698159686047146768
+    second: Key_40
   - first:
-      213: 8722951985313388271
-    second: VillagerGirlBlondeIdle_41
+      213: -3548573565711064186
+    second: Key_41
   - first:
-      213: 122899212399956859
-    second: VillagerGirlBlondeIdle_42
+      213: 8636271910501577653
+    second: Key_42
   - first:
-      213: -786644569074868860
-    second: VillagerGirlBlondeIdle_43
-  - first:
-      213: 2961915792682531799
-    second: VillagerGirlBlondeIdle_44
-  - first:
-      213: 1773586770997832376
-    second: VillagerGirlBlondeIdle_45
-  - first:
-      213: 1712291442117761410
-    second: VillagerGirlBlondeIdle_46
-  - first:
-      213: 4844761315484134149
-    second: VillagerGirlBlondeIdle_47
-  - first:
-      213: -1115357959776224109
-    second: VillagerGirlBlondeIdle_48
-  - first:
-      213: 2668580173934742306
-    second: VillagerGirlBlondeIdle_49
+      213: 8178841759446433187
+    second: Key_43
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -273,13 +255,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_0
+      name: Key_0
       rect:
         serializedVersion: 2
-        x: 103
-        y: 1916
-        width: 52
-        height: 83
+        x: 0
+        y: 0
+        width: 233
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,20 +270,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd3340efce82203c0800000000000000
-      internalID: -4394905288021101604
+      spriteID: 6e6a88cfd8a858710800000000000000
+      internalID: 1694913177206695654
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_1
+      name: Key_1
       rect:
         serializedVersion: 2
-        x: 359
-        y: 1916
-        width: 52
-        height: 83
+        x: 81
+        y: 983
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,20 +292,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f1da620717e0613f0800000000000000
-      internalID: -930540392629752545
+      spriteID: 1ab3c540f46f9b210800000000000000
+      internalID: 1349380382610176929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_2
+      name: Key_2
       rect:
         serializedVersion: 2
-        x: 615
-        y: 1916
-        width: 52
-        height: 83
+        x: 81
+        y: 974
+        width: 7
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,20 +314,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f78520f36947aded0800000000000000
-      internalID: -2388468463715592065
+      spriteID: a9de4d90e4b621190800000000000000
+      internalID: -7993208405712638566
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_3
+      name: Key_3
       rect:
         serializedVersion: 2
-        x: 871
-        y: 1916
-        width: 52
-        height: 83
+        x: 81
+        y: 951
+        width: 8
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -354,20 +336,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c463db4868949c610800000000000000
-      internalID: 1641924381254694476
+      spriteID: 7d961a2b5cc0e8850800000000000000
+      internalID: 6381051765275584983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_4
+      name: Key_4
       rect:
         serializedVersion: 2
-        x: 1127
-        y: 1916
-        width: 52
-        height: 83
+        x: 81
+        y: 872
+        width: 6
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -376,20 +358,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: be468826435bcbef0800000000000000
-      internalID: -90998655858219797
+      spriteID: 1e72c46569f539f80800000000000000
+      internalID: -8101026205411825695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_5
+      name: Key_5
       rect:
         serializedVersion: 2
-        x: 1383
-        y: 1916
-        width: 52
-        height: 83
+        x: 81
+        y: 719
+        width: 7
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -398,20 +380,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f3e588e9f1861c150800000000000000
-      internalID: 5891104272590331455
+      spriteID: 70a333a6a6040e7e0800000000000000
+      internalID: -1738318630372558329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_6
+      name: Key_6
       rect:
         serializedVersion: 2
-        x: 1639
-        y: 1916
-        width: 52
-        height: 83
+        x: 81
+        y: 520
+        width: 6
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,20 +402,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e56296f3404df9840800000000000000
-      internalID: 5233134406736619102
+      spriteID: 3e13d3642a3f5cc70800000000000000
+      internalID: 8990860109403730403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_7
+      name: Key_7
       rect:
         serializedVersion: 2
-        x: 1895
-        y: 1916
-        width: 52
-        height: 83
+        x: 81
+        y: 350
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -442,20 +424,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9716eebda0cf61c60800000000000000
-      internalID: 7788689729153556857
+      spriteID: a84f4ffdfeff9f710800000000000000
+      internalID: 1727693337792935050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_8
+      name: Key_8
       rect:
         serializedVersion: 2
-        x: 103
-        y: 1660
-        width: 52
-        height: 83
+        x: 81
+        y: 328
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -464,20 +446,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 57d2f2f961a9745c0800000000000000
-      internalID: -4231243902940664459
+      spriteID: 4ab1a4892dcb5d990800000000000000
+      internalID: -7361770403183060060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_9
+      name: Key_9
       rect:
         serializedVersion: 2
-        x: 359
-        y: 1660
-        width: 52
-        height: 83
+        x: 81
+        y: 288
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -486,20 +468,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e695bd912bd92f400800000000000000
-      internalID: 356520708779235694
+      spriteID: dd8ea48042252c9a0800000000000000
+      internalID: -6214314221106435875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_10
+      name: Key_10
       rect:
         serializedVersion: 2
-        x: 615
-        y: 1660
-        width: 52
-        height: 84
+        x: 81
+        y: 231
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -508,20 +490,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bd83cdcafb4bbdfd0800000000000000
-      internalID: -2316058848020121381
+      spriteID: e98dd2b1735ce0660800000000000000
+      internalID: 7354032082012461214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_11
+      name: Key_11
       rect:
         serializedVersion: 2
-        x: 871
-        y: 1660
-        width: 52
-        height: 84
+        x: 81
+        y: 99
+        width: 8
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -530,20 +512,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0dd7ff12849468910800000000000000
-      internalID: 1839238071984291280
+      spriteID: 612ff2080dc172b90800000000000000
+      internalID: -7266807791909604842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_12
+      name: Key_12
       rect:
         serializedVersion: 2
-        x: 1127
-        y: 1660
-        width: 52
-        height: 84
+        x: 81
+        y: 94
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,20 +534,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 708dd0c96eb6ec440800000000000000
-      internalID: 4958018877986297863
+      spriteID: 45fa3365527e58d10800000000000000
+      internalID: 2127360546548461396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_13
+      name: Key_13
       rect:
         serializedVersion: 2
-        x: 1383
-        y: 1660
-        width: 52
-        height: 84
+        x: 81
+        y: 54
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -574,20 +556,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bacfd93133058cd40800000000000000
-      internalID: 5604817916565257387
+      spriteID: f4389296e45ab8140800000000000000
+      internalID: 4723050390418457423
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_14
+      name: Key_14
       rect:
         serializedVersion: 2
-        x: 1639
-        y: 1660
-        width: 52
-        height: 84
+        x: 81
+        y: 8
+        width: 8
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,20 +578,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 065d7843f34b50ed0800000000000000
-      internalID: -2448352638848740000
+      spriteID: ba9c1b7bbf5a4ebc0800000000000000
+      internalID: -3754693688782894677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_15
+      name: Key_15
       rect:
         serializedVersion: 2
-        x: 1895
-        y: 1660
-        width: 52
-        height: 84
+        x: 81
+        y: 0
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -618,20 +600,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 734a0dd482f6d7760800000000000000
-      internalID: 7457238776890303543
+      spriteID: 62289f35346d1a380800000000000000
+      internalID: -8961646198830562778
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_16
+      name: Key_16
       rect:
         serializedVersion: 2
-        x: 103
-        y: 1404
-        width: 52
-        height: 84
+        x: 82
+        y: 904
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -640,20 +622,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cd9f739f361614ce0800000000000000
-      internalID: -1422748925261514276
+      spriteID: a39d43c2f519e6ef0800000000000000
+      internalID: -112993102688102086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_17
+      name: Key_17
       rect:
         serializedVersion: 2
-        x: 360
-        y: 1404
-        width: 51
-        height: 84
+        x: 82
+        y: 807
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -662,20 +644,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66542144b3766fa30800000000000000
-      internalID: 4248696802713421158
+      spriteID: 2390b611dc0470200800000000000000
+      internalID: 146156762417531186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_18
+      name: Key_18
       rect:
         serializedVersion: 2
-        x: 616
-        y: 1404
-        width: 51
-        height: 84
+        x: 82
+        y: 622
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -684,20 +666,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 04cc5b7f706f5f3e0800000000000000
-      internalID: -2020438343724708800
+      spriteID: 9e3163b04c9f014a0800000000000000
+      internalID: -6624520431464999959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_19
+      name: Key_19
       rect:
         serializedVersion: 2
-        x: 872
-        y: 1404
-        width: 51
-        height: 84
+        x: 249
+        y: 0
+        width: 640
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -706,20 +688,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 866b4ddf8eb99cec0800000000000000
-      internalID: -3546131806584261016
+      spriteID: 5ac0061fca29071d0800000000000000
+      internalID: -3355020450909385563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_20
+      name: Key_20
       rect:
         serializedVersion: 2
-        x: 1128
-        y: 1404
-        width: 51
-        height: 84
+        x: 894
+        y: 0
+        width: 642
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -728,20 +710,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c9620e96d556af700800000000000000
-      internalID: 574883354325821084
+      spriteID: 38391ba08893502f0800000000000000
+      internalID: -1007335685189692541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_21
+      name: Key_21
       rect:
         serializedVersion: 2
-        x: 1384
-        y: 1404
-        width: 51
-        height: 84
+        x: 993
+        y: 39
+        width: 8
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -750,20 +732,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6d483d1e5572d1f0800000000000000
-      internalID: -1021625118382076565
+      spriteID: 47ca3009a96b10e70800000000000000
+      internalID: 9079739098713009268
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_22
+      name: Key_22
       rect:
         serializedVersion: 2
-        x: 1640
-        y: 1404
-        width: 51
-        height: 84
+        x: 994
+        y: 448
+        width: 7
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -772,20 +754,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61fdf2f7ee20d5a90800000000000000
-      internalID: -7323694195675242730
+      spriteID: 8dfe1802b8259e1d0800000000000000
+      internalID: -3321032492709711912
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_23
+      name: Key_23
       rect:
         serializedVersion: 2
-        x: 1896
-        y: 1404
-        width: 51
-        height: 84
+        x: 994
+        y: 400
+        width: 7
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -794,20 +776,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c4ca53295b7f55340800000000000000
-      internalID: 4852056532775709772
+      spriteID: 9ecfb6baa5cad4ae0800000000000000
+      internalID: -1563403990204678935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_24
+      name: Key_24
       rect:
         serializedVersion: 2
-        x: 104
-        y: 1148
-        width: 51
-        height: 84
+        x: 994
+        y: 312
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -816,20 +798,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b86191d00079140e0800000000000000
-      internalID: -2287381109251959157
+      spriteID: 2777efa427748b450800000000000000
+      internalID: 6104707851110741874
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_25
+      name: Key_25
       rect:
         serializedVersion: 2
-        x: 360
-        y: 1148
-        width: 51
-        height: 84
+        x: 994
+        y: 234
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -838,20 +820,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c891e4a16d0c5da0800000000000000
-      internalID: -5954869894261401399
+      spriteID: f1f96a205b0975780800000000000000
+      internalID: -8694321448507498721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_26
+      name: Key_26
       rect:
         serializedVersion: 2
-        x: 616
-        y: 1148
-        width: 50
-        height: 84
+        x: 994
+        y: 200
+        width: 7
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -860,20 +842,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0bca2f26dfdb34b10800000000000000
-      internalID: 1964622758448114864
+      spriteID: a13f0eedad81d2a30800000000000000
+      internalID: 4192034156473021210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_27
+      name: Key_27
       rect:
         serializedVersion: 2
-        x: 873
-        y: 1148
-        width: 49
-        height: 84
+        x: 994
+        y: 153
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -882,20 +864,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b149a7f8bef7eab50800000000000000
-      internalID: 6606358353100313627
+      spriteID: 6b23905e73c7b4570800000000000000
+      internalID: 8451985705198498486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_28
+      name: Key_28
       rect:
         serializedVersion: 2
-        x: 1129
-        y: 1148
-        width: 50
-        height: 84
+        x: 995
+        y: 283
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -904,20 +886,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b0876ef4fcd022460800000000000000
-      internalID: 7215344737050851339
+      spriteID: 9ccead1dbe4c5e650800000000000000
+      internalID: 6261627374045686985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_29
+      name: Key_29
       rect:
         serializedVersion: 2
-        x: 1385
-        y: 1148
-        width: 50
-        height: 84
+        x: 995
+        y: 35
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -926,20 +908,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bbe7cd3a3bbe9e4e0800000000000000
-      internalID: -1951769806707589445
+      spriteID: deb8e791e5c77c700800000000000000
+      internalID: 560553422227409901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_30
+      name: Key_30
       rect:
         serializedVersion: 2
-        x: 1641
-        y: 1148
-        width: 50
-        height: 84
+        x: 995
+        y: 10
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -948,20 +930,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 536f640584e0ee150800000000000000
-      internalID: 5903671865276560949
+      spriteID: fded92d12396ddf20800000000000000
+      internalID: 3449028553594232543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_31
+      name: Key_31
       rect:
         serializedVersion: 2
-        x: 1897
-        y: 1148
-        width: 50
-        height: 84
+        x: 1041
+        y: 759
+        width: 6
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -970,20 +952,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12cec6a9b80c81a00800000000000000
-      internalID: 727543045644151841
+      spriteID: 7b2a0e8dbea8ceee0800000000000000
+      internalID: -1230455852618440009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_32
+      name: Key_32
       rect:
         serializedVersion: 2
-        x: 104
-        y: 892
-        width: 51
-        height: 84
+        x: 1041
+        y: 719
+        width: 6
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -992,20 +974,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af4b32e0e38cf9930800000000000000
-      internalID: 4152257550309635322
+      spriteID: 428a89157753a7430800000000000000
+      internalID: 3781393623717292068
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_33
+      name: Key_33
       rect:
         serializedVersion: 2
-        x: 360
-        y: 892
-        width: 51
-        height: 84
+        x: 1041
+        y: 535
+        width: 6
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1014,20 +996,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b38af3c1c19eca080800000000000000
-      internalID: -9174702033918252997
+      spriteID: 6e78a802089455d50800000000000000
+      internalID: 6725362433198295014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_34
+      name: Key_34
       rect:
         serializedVersion: 2
-        x: 616
-        y: 892
-        width: 51
-        height: 84
+        x: 1041
+        y: 447
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1036,20 +1018,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 17374143ddbb19d10800000000000000
-      internalID: 2130690657458877297
+      spriteID: 60c3df99fe6eeedd0800000000000000
+      internalID: -2454770830115259386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_35
+      name: Key_35
       rect:
         serializedVersion: 2
-        x: 872
-        y: 892
-        width: 51
-        height: 84
+        x: 1041
+        y: 439
+        width: 6
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1058,20 +1040,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c1162f0ae282d2490800000000000000
-      internalID: -7769509601410391780
+      spriteID: a26dea31f9b6bf000800000000000000
+      internalID: 70768550128571946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_36
+      name: Key_36
       rect:
         serializedVersion: 2
-        x: 1128
-        y: 892
-        width: 51
-        height: 84
+        x: 1041
+        y: 359
+        width: 6
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1080,20 +1062,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b441c1d5cb2de4ca0800000000000000
-      internalID: -6030651144544709557
+      spriteID: f698358e63b44b9c0800000000000000
+      internalID: -3912419477080012433
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_37
+      name: Key_37
       rect:
         serializedVersion: 2
-        x: 1384
-        y: 892
-        width: 51
-        height: 84
+        x: 1041
+        y: 319
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1102,20 +1084,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ea41a0d972442d690800000000000000
-      internalID: -7578920285982026578
+      spriteID: 6793949716552b990800000000000000
+      internalID: -7371735762917049994
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_38
+      name: Key_38
       rect:
         serializedVersion: 2
-        x: 1640
-        y: 892
-        width: 51
-        height: 84
+        x: 1041
+        y: 303
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1124,20 +1106,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b44643d2fef816bf0800000000000000
-      internalID: -332826640030342069
+      spriteID: ea66c3ad833d5e3d0800000000000000
+      internalID: -3177901720906996050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_39
+      name: Key_39
       rect:
         serializedVersion: 2
-        x: 1896
-        y: 892
-        width: 51
-        height: 84
+        x: 1041
+        y: 269
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1146,20 +1128,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65e22daeb5d9af230800000000000000
-      internalID: 3673421464181288534
+      spriteID: f08383e996fca21b0800000000000000
+      internalID: -5680499927441459185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_40
+      name: Key_40
       rect:
         serializedVersion: 2
-        x: 104
-        y: 636
-        width: 51
-        height: 84
+        x: 1041
+        y: 46
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1168,20 +1150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 02eda1d2cc5f29b20800000000000000
-      internalID: 3139842147509526048
+      spriteID: 013ae1260f9c17520800000000000000
+      internalID: 2698159686047146768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_41
+      name: Key_41
       rect:
         serializedVersion: 2
-        x: 360
-        y: 636
-        width: 51
-        height: 83
+        x: 1041
+        y: 39
+        width: 6
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1190,20 +1172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe6946d4d962e0970800000000000000
-      internalID: 8722951985313388271
+      spriteID: 6836374a42fe0cec0800000000000000
+      internalID: -3548573565711064186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_42
+      name: Key_42
       rect:
         serializedVersion: 2
-        x: 615
-        y: 636
-        width: 52
-        height: 83
+        x: 1041
+        y: 23
+        width: 6
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1212,20 +1194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b73564abe20a4b100800000000000000
-      internalID: 122899212399956859
+      spriteID: 5b37121bb833ad770800000000000000
+      internalID: 8636271910501577653
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_43
+      name: Key_43
       rect:
         serializedVersion: 2
-        x: 871
-        y: 636
-        width: 53
-        height: 83
+        x: 1089
+        y: 555
+        width: 7
+        height: 6
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1234,140 +1216,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48d5dc7aee64515f0800000000000000
-      internalID: -786644569074868860
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_44
-      rect:
-        serializedVersion: 2
-        x: 1127
-        y: 636
-        width: 53
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7db367578b6da1920800000000000000
-      internalID: 2961915792682531799
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_45
-      rect:
-        serializedVersion: 2
-        x: 1383
-        y: 636
-        width: 53
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8ba68a775cb0d9810800000000000000
-      internalID: 1773586770997832376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_46
-      rect:
-        serializedVersion: 2
-        x: 1639
-        y: 636
-        width: 53
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 289de579ef743c710800000000000000
-      internalID: 1712291442117761410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_47
-      rect:
-        serializedVersion: 2
-        x: 1895
-        y: 636
-        width: 53
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 50b6cfe6fbc0c3340800000000000000
-      internalID: 4844761315484134149
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_48
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 380
-        width: 53
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 39c322258d37580f0800000000000000
-      internalID: -1115357959776224109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: VillagerGirlBlondeIdle_49
-      rect:
-        serializedVersion: 2
-        x: 359
-        y: 380
-        width: 53
-        height: 83
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 22bc70a8783b80520800000000000000
-      internalID: 2668580173934742306
+      spriteID: 3ad7fe13f35118170800000000000000
+      internalID: 8178841759446433187
       vertices: []
       indices: 
       edges: []
@@ -1385,57 +1235,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      VillagerGirlBlondeIdle_0: -4394905288021101604
-      VillagerGirlBlondeIdle_1: -930540392629752545
-      VillagerGirlBlondeIdle_10: -2316058848020121381
-      VillagerGirlBlondeIdle_11: 1839238071984291280
-      VillagerGirlBlondeIdle_12: 4958018877986297863
-      VillagerGirlBlondeIdle_13: 5604817916565257387
-      VillagerGirlBlondeIdle_14: -2448352638848740000
-      VillagerGirlBlondeIdle_15: 7457238776890303543
-      VillagerGirlBlondeIdle_16: -1422748925261514276
-      VillagerGirlBlondeIdle_17: 4248696802713421158
-      VillagerGirlBlondeIdle_18: -2020438343724708800
-      VillagerGirlBlondeIdle_19: -3546131806584261016
-      VillagerGirlBlondeIdle_2: -2388468463715592065
-      VillagerGirlBlondeIdle_20: 574883354325821084
-      VillagerGirlBlondeIdle_21: -1021625118382076565
-      VillagerGirlBlondeIdle_22: -7323694195675242730
-      VillagerGirlBlondeIdle_23: 4852056532775709772
-      VillagerGirlBlondeIdle_24: -2287381109251959157
-      VillagerGirlBlondeIdle_25: -5954869894261401399
-      VillagerGirlBlondeIdle_26: 1964622758448114864
-      VillagerGirlBlondeIdle_27: 6606358353100313627
-      VillagerGirlBlondeIdle_28: 7215344737050851339
-      VillagerGirlBlondeIdle_29: -1951769806707589445
-      VillagerGirlBlondeIdle_3: 1641924381254694476
-      VillagerGirlBlondeIdle_30: 5903671865276560949
-      VillagerGirlBlondeIdle_31: 727543045644151841
-      VillagerGirlBlondeIdle_32: 4152257550309635322
-      VillagerGirlBlondeIdle_33: -9174702033918252997
-      VillagerGirlBlondeIdle_34: 2130690657458877297
-      VillagerGirlBlondeIdle_35: -7769509601410391780
-      VillagerGirlBlondeIdle_36: -6030651144544709557
-      VillagerGirlBlondeIdle_37: -7578920285982026578
-      VillagerGirlBlondeIdle_38: -332826640030342069
-      VillagerGirlBlondeIdle_39: 3673421464181288534
-      VillagerGirlBlondeIdle_4: -90998655858219797
-      VillagerGirlBlondeIdle_40: 3139842147509526048
-      VillagerGirlBlondeIdle_41: 8722951985313388271
-      VillagerGirlBlondeIdle_42: 122899212399956859
-      VillagerGirlBlondeIdle_43: -786644569074868860
-      VillagerGirlBlondeIdle_44: 2961915792682531799
-      VillagerGirlBlondeIdle_45: 1773586770997832376
-      VillagerGirlBlondeIdle_46: 1712291442117761410
-      VillagerGirlBlondeIdle_47: 4844761315484134149
-      VillagerGirlBlondeIdle_48: -1115357959776224109
-      VillagerGirlBlondeIdle_49: 2668580173934742306
-      VillagerGirlBlondeIdle_5: 5891104272590331455
-      VillagerGirlBlondeIdle_6: 5233134406736619102
-      VillagerGirlBlondeIdle_7: 7788689729153556857
-      VillagerGirlBlondeIdle_8: -4231243902940664459
-      VillagerGirlBlondeIdle_9: 356520708779235694
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

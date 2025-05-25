@@ -10,7 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d037a3977b58dfb45b244aff889971dc, type: 3}
-  m_Name: BigForFirstTime
+  m_Name: ShedLocked
   m_EditorClassIdentifier: 
-  tooltipText: You can now swap between Small Form (left click) and Big Form (right
-    click). Your size may cause you to interact with objects differently!
+  tooltipText: I need to find a key to get inside.

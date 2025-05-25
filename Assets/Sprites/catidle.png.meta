@@ -228,6 +228,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1234,7 +1260,52 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      catidle_0: -7114426164337029207
+      catidle_1: 3101475959651800580
+      catidle_10: 2177469213268595484
+      catidle_11: -4964019015894897482
+      catidle_12: -6922108139732969874
+      catidle_13: -7806437466384541149
+      catidle_14: -5778618166696055447
+      catidle_15: 2388956293014023540
+      catidle_16: -5028692860157012666
+      catidle_17: -6684392130209913791
+      catidle_18: -7247313298655923327
+      catidle_19: 6947675356996820586
+      catidle_2: 8915512687545983265
+      catidle_20: 6909094860735897873
+      catidle_21: 7073495952178988067
+      catidle_22: 6546017647032735897
+      catidle_23: -3136911255507100690
+      catidle_24: -3898738091999388325
+      catidle_25: -7289739021743430803
+      catidle_26: 2767033071002757574
+      catidle_27: -3466472857493280788
+      catidle_28: 6049846042704785292
+      catidle_29: 4533360468024786205
+      catidle_3: 7689583445411524744
+      catidle_30: 3468637194269480273
+      catidle_31: -8299149702036697009
+      catidle_32: 3820056166397538926
+      catidle_33: -2151826184503045016
+      catidle_34: -2420698927509024148
+      catidle_35: -63768625752375542
+      catidle_36: -6493042306717680837
+      catidle_37: -2505030084895470997
+      catidle_38: -6609178719028263523
+      catidle_39: -1397311376751004249
+      catidle_4: 2723355465235565586
+      catidle_40: 460054681084287735
+      catidle_41: -4217623934622374241
+      catidle_42: -8401777509736319353
+      catidle_43: 7252679573097766396
+      catidle_44: 1473460320259955175
+      catidle_5: -5420222458282991689
+      catidle_6: 3823801801928820174
+      catidle_7: 853929828114878242
+      catidle_8: 2037824112751347003
+      catidle_9: 435752437205486276
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
