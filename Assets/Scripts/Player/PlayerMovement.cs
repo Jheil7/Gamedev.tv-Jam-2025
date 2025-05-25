@@ -20,7 +20,9 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody2D playerRb;
     Vector2 rawInput;
     private bool facingLeft;
-    [SerializeField] Animator animator;
+
+    [SerializeField] FormSwap formSwap;
+
 
 
     void Start()
@@ -39,7 +41,8 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
-    public void OnMove(InputValue value) {
+    public void OnMove(InputValue value)
+    {
         rawInput = value.Get<Vector2>();
         if (rawInput.x > 0 && facingLeft) Flip();
         if (rawInput.x < 0 && !facingLeft) Flip();
@@ -49,11 +52,13 @@ public class PlayerMovement : MonoBehaviour
     {
         Vector2 delta = rawInput * playerMoveSpeed;
         playerRb.linearVelocity = new Vector2(delta.x, playerRb.linearVelocityY);
-        if (delta.x != 0) animator.SetFloat("speed", 1f);
-        else animator.SetFloat("speed", 0f);
+        if (delta.x != 0) formSwap.CurrentAnimator.SetFloat("speed", 1f);
+        else formSwap.CurrentAnimator.SetFloat("speed", 0f);
+        Debug.Log(formSwap.CurrentAnimator.GetFloat("speed"));
     }
 
-    void Flip() {
+    void Flip()
+    {
         Vector3 currentScale = gameObject.transform.localScale;
         currentScale.x *= -1;
         gameObject.transform.localScale = currentScale;
@@ -90,12 +95,14 @@ public class PlayerMovement : MonoBehaviour
     {
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, groundLayer);
 
-        if (isGrounded) {
+        if (isGrounded)
+        {
             coyoteTimeCounter = coyoteTime;
-            animator.SetBool("jump", false);
+            formSwap.CurrentAnimator.SetBool("jump", false);
         }
-        else { 
-            animator.SetBool("jump", true);
+        else
+        {
+            formSwap.CurrentAnimator.SetBool("jump", true);
             coyoteTimeCounter -= Time.deltaTime;
         }
     }
@@ -103,7 +110,7 @@ public class PlayerMovement : MonoBehaviour
     {
         hasJumpedThisFrame = false;
     }
-    
+
     void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;

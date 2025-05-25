@@ -7,6 +7,11 @@ public class FormSwap : MonoBehaviour
 {
     [SerializeField] List<GameObject> formList;
     [SerializeField] private PlayerAudio audioController;
+
+    [SerializeField] private Animator smallFormAnimator;
+    [SerializeField] private Animator bigFormAnimator;
+    private Animator currentAnimator;
+    public Animator CurrentAnimator => currentAnimator;
     
     [SerializeField] CinemachineCamera zoomedInCam;
     [SerializeField] CinemachineCamera zoomedOutCam;
@@ -84,8 +89,8 @@ public class FormSwap : MonoBehaviour
                 var dropper = form.GetComponent<FormBehaviorBase>();
                 dropper?.ForceDropIfCarrying();
 
-                audioController.SetForm(index == 0 
-                ? PlayerAudio.PlayerForm.Small 
+                audioController.SetForm(index == 0
+                ? PlayerAudio.PlayerForm.Small
                 : PlayerAudio.PlayerForm.Big);
             }
         }
@@ -99,6 +104,8 @@ public class FormSwap : MonoBehaviour
         currentForm = activeForm.GetComponent<IInteract>();
         currentFormF = activeForm.GetComponent<InteractF>();
         currentFormBehavior = activeForm.GetComponent<FormBehaviorBase>();
+        
+        currentAnimator = index == 0 ? smallFormAnimator : bigFormAnimator;
     }
 
 
