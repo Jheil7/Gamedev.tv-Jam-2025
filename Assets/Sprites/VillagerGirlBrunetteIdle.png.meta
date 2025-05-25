@@ -1,0 +1,1367 @@
+fileFormatVersion: 2
+guid: c33a7c574557a6145953bd43085efcac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4188531598987006690
+    second: VillagerGirlBrunetteIdle_0
+  - first:
+      213: -931934218303600765
+    second: VillagerGirlBrunetteIdle_1
+  - first:
+      213: 1245458737897823916
+    second: VillagerGirlBrunetteIdle_2
+  - first:
+      213: -2449595251821390395
+    second: VillagerGirlBrunetteIdle_3
+  - first:
+      213: 9055861875026725881
+    second: VillagerGirlBrunetteIdle_4
+  - first:
+      213: -3225585963446346125
+    second: VillagerGirlBrunetteIdle_5
+  - first:
+      213: 3053447020674114104
+    second: VillagerGirlBrunetteIdle_6
+  - first:
+      213: 4176905639178294656
+    second: VillagerGirlBrunetteIdle_7
+  - first:
+      213: -5081757493698314755
+    second: VillagerGirlBrunetteIdle_8
+  - first:
+      213: 2315854915049502572
+    second: VillagerGirlBrunetteIdle_9
+  - first:
+      213: 4880087658987302320
+    second: VillagerGirlBrunetteIdle_10
+  - first:
+      213: -4349218485499780488
+    second: VillagerGirlBrunetteIdle_11
+  - first:
+      213: 6517867860002913603
+    second: VillagerGirlBrunetteIdle_12
+  - first:
+      213: 5334419760058942532
+    second: VillagerGirlBrunetteIdle_13
+  - first:
+      213: 8234298109295877210
+    second: VillagerGirlBrunetteIdle_14
+  - first:
+      213: -8115786820782511761
+    second: VillagerGirlBrunetteIdle_15
+  - first:
+      213: -6958098720348077949
+    second: VillagerGirlBrunetteIdle_16
+  - first:
+      213: -5511772261030548204
+    second: VillagerGirlBrunetteIdle_17
+  - first:
+      213: -5596889124744476176
+    second: VillagerGirlBrunetteIdle_18
+  - first:
+      213: -3226671207383678744
+    second: VillagerGirlBrunetteIdle_19
+  - first:
+      213: -8421587982396688681
+    second: VillagerGirlBrunetteIdle_20
+  - first:
+      213: 5638833415779447609
+    second: VillagerGirlBrunetteIdle_21
+  - first:
+      213: 8583454169093872247
+    second: VillagerGirlBrunetteIdle_22
+  - first:
+      213: -8487826403349096310
+    second: VillagerGirlBrunetteIdle_23
+  - first:
+      213: 5413086858923608178
+    second: VillagerGirlBrunetteIdle_24
+  - first:
+      213: -5639002130423987076
+    second: VillagerGirlBrunetteIdle_25
+  - first:
+      213: -5799738920793566615
+    second: VillagerGirlBrunetteIdle_26
+  - first:
+      213: -1438523103873218141
+    second: VillagerGirlBrunetteIdle_27
+  - first:
+      213: -7330786716481295694
+    second: VillagerGirlBrunetteIdle_28
+  - first:
+      213: -8839845672814682386
+    second: VillagerGirlBrunetteIdle_29
+  - first:
+      213: -7075551896136940770
+    second: VillagerGirlBrunetteIdle_30
+  - first:
+      213: 128600388538523562
+    second: VillagerGirlBrunetteIdle_31
+  - first:
+      213: -4175623150159492655
+    second: VillagerGirlBrunetteIdle_32
+  - first:
+      213: -8500117431849665132
+    second: VillagerGirlBrunetteIdle_33
+  - first:
+      213: -327521496892751502
+    second: VillagerGirlBrunetteIdle_34
+  - first:
+      213: -4831953202813831972
+    second: VillagerGirlBrunetteIdle_35
+  - first:
+      213: 6435371559085545835
+    second: VillagerGirlBrunetteIdle_36
+  - first:
+      213: 7761627849016068028
+    second: VillagerGirlBrunetteIdle_37
+  - first:
+      213: -8794747359193193596
+    second: VillagerGirlBrunetteIdle_38
+  - first:
+      213: -7505180754609664563
+    second: VillagerGirlBrunetteIdle_39
+  - first:
+      213: 7788002250415830793
+    second: VillagerGirlBrunetteIdle_40
+  - first:
+      213: 2870732557692229427
+    second: VillagerGirlBrunetteIdle_41
+  - first:
+      213: -3539242344614332145
+    second: VillagerGirlBrunetteIdle_42
+  - first:
+      213: -6745262678044717709
+    second: VillagerGirlBrunetteIdle_43
+  - first:
+      213: 6554414401616065073
+    second: VillagerGirlBrunetteIdle_44
+  - first:
+      213: -5092486140682096288
+    second: VillagerGirlBrunetteIdle_45
+  - first:
+      213: -4935071040485132210
+    second: VillagerGirlBrunetteIdle_46
+  - first:
+      213: 2780160188732261913
+    second: VillagerGirlBrunetteIdle_47
+  - first:
+      213: 7650763586126968631
+    second: VillagerGirlBrunetteIdle_48
+  - first:
+      213: -9044053258709935722
+    second: VillagerGirlBrunetteIdle_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1916
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e29e182c47a02a30800000000000000
+      internalID: 4188531598987006690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1916
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3878bfb14ca1113f0800000000000000
+      internalID: -931934218303600765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1916
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae5ec69f12c84110800000000000000
+      internalID: 1245458737897823916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_3
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1916
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5d3b3d81a410ed0800000000000000
+      internalID: -2449595251821390395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1916
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb88f33562ecad70800000000000000
+      internalID: 9055861875026725881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_5
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1916
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e5b48f7aa6c33d0800000000000000
+      internalID: -3225585963446346125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_6
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1916
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83261cf23e5006a20800000000000000
+      internalID: 3053447020674114104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1916
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0855c837c8957f930800000000000000
+      internalID: 4176905639178294656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1660
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdbe69db78f979b0800000000000000
+      internalID: -5081757493698314755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_9
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1660
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c673eda76c1932020800000000000000
+      internalID: 2315854915049502572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1660
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bda4babedd89b340800000000000000
+      internalID: 4880087658987302320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_11
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1660
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8722931a4d874a3c0800000000000000
+      internalID: -4349218485499780488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_12
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1660
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34db868194e147a50800000000000000
+      internalID: 6517867860002913603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_13
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1660
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4444321428aa70a40800000000000000
+      internalID: 5334419760058942532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_14
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1660
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c5043d08a164270800000000000000
+      internalID: 8234298109295877210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_15
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1660
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f692672c2eeee5f80800000000000000
+      internalID: -8115786820782511761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1404
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3808d85541edf6f90800000000000000
+      internalID: -6958098720348077949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1404
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d2c6ac4504283b0800000000000000
+      internalID: -5511772261030548204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_18
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1404
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9cb50aefad352b0800000000000000
+      internalID: -5596889124744476176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_19
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1404
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e04aece1af8833d0800000000000000
+      internalID: -3226671207383678744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_20
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1404
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6fb887952802b80800000000000000
+      internalID: -8421587982396688681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_21
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1404
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933f227ad19214e40800000000000000
+      internalID: 5638833415779447609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_22
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1404
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a9fa6f61e8e1770800000000000000
+      internalID: 8583454169093872247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_23
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1404
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8812394bde253a80800000000000000
+      internalID: -8487826403349096310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1148
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2780a7481d52f1b40800000000000000
+      internalID: 5413086858923608178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1148
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c744868607d3eb1b0800000000000000
+      internalID: -5639002130423987076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_26
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1148
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962971c0e20338fa0800000000000000
+      internalID: -5799738920793566615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_27
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1148
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9c170dbd6590ce0800000000000000
+      internalID: -1438523103873218141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_28
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1148
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baeaff4250d34a90800000000000000
+      internalID: -7330786716481295694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_29
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1148
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee5b92323f825580800000000000000
+      internalID: -8839845672814682386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_30
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1148
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e138ae0d9079ecd90800000000000000
+      internalID: -7075551896136940770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_31
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1148
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafd0dc3f51e8c100800000000000000
+      internalID: 128600388538523562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 892
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d988da4ed43d06c0800000000000000
+      internalID: -4175623150159492655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 892
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dbe753b34890a80800000000000000
+      internalID: -8500117431849665132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_34
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 892
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27147611fe8647bf0800000000000000
+      internalID: -327521496892751502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_35
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 892
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd478fea92471fcb0800000000000000
+      internalID: -4831953202813831972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_36
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 892
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6912f046580f4950800000000000000
+      internalID: 6435371559085545835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_37
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 892
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7c163e767d6bb60800000000000000
+      internalID: 7761627849016068028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_38
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 892
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4832cf59fd7c2f580800000000000000
+      internalID: -8794747359193193596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_39
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 892
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd846a2edd38d790800000000000000
+      internalID: -7505180754609664563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 636
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9077afdb8ca841c60800000000000000
+      internalID: 7788002250415830793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_41
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 636
+        width: 51
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337d46a2d04e6d720800000000000000
+      internalID: 2870732557692229427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_42
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 636
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09fd3bd6d512eec0800000000000000
+      internalID: -3539242344614332145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_43
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 636
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dc17e05530462a0800000000000000
+      internalID: -6745262678044717709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_44
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 636
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132b707eb25f5fa50800000000000000
+      internalID: 6554414401616065073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_45
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 636
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0613b0116dad359b0800000000000000
+      internalID: -5092486140682096288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_46
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 636
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48f09a290b138bb0800000000000000
+      internalID: -4935071040485132210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_47
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 636
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916c11436fc159620800000000000000
+      internalID: 2780160188732261913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 380
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737779332f8fc2a60800000000000000
+      internalID: 7650763586126968631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerGirlBrunetteIdle_49
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 380
+        width: 53
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69951e88a711d7280800000000000000
+      internalID: -9044053258709935722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

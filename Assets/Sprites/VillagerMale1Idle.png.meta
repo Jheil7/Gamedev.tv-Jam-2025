@@ -1,0 +1,1717 @@
+fileFormatVersion: 2
+guid: a6af29df2376cf04d878392888a854ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 899731827885992796
+    second: VillagerMale1Idle_0
+  - first:
+      213: 5514786713093486902
+    second: VillagerMale1Idle_1
+  - first:
+      213: 8033553193767265030
+    second: VillagerMale1Idle_2
+  - first:
+      213: -4396138480767226372
+    second: VillagerMale1Idle_3
+  - first:
+      213: -404735676550495151
+    second: VillagerMale1Idle_4
+  - first:
+      213: -3063950033062690823
+    second: VillagerMale1Idle_5
+  - first:
+      213: 130999561281516857
+    second: VillagerMale1Idle_6
+  - first:
+      213: -3984404912548947033
+    second: VillagerMale1Idle_7
+  - first:
+      213: -6532655214090947476
+    second: VillagerMale1Idle_8
+  - first:
+      213: 1347183059732325909
+    second: VillagerMale1Idle_9
+  - first:
+      213: -8231445454598182858
+    second: VillagerMale1Idle_10
+  - first:
+      213: -7512542531776053178
+    second: VillagerMale1Idle_11
+  - first:
+      213: -3578222804651542701
+    second: VillagerMale1Idle_12
+  - first:
+      213: 531643733450601897
+    second: VillagerMale1Idle_13
+  - first:
+      213: 4401076313208349682
+    second: VillagerMale1Idle_14
+  - first:
+      213: -2839293132852941821
+    second: VillagerMale1Idle_15
+  - first:
+      213: -5914301146103100782
+    second: VillagerMale1Idle_16
+  - first:
+      213: -9111942390002401356
+    second: VillagerMale1Idle_17
+  - first:
+      213: -3053328871666701675
+    second: VillagerMale1Idle_18
+  - first:
+      213: -2024274462355554658
+    second: VillagerMale1Idle_19
+  - first:
+      213: -4566370731463210574
+    second: VillagerMale1Idle_20
+  - first:
+      213: -2668665759692083635
+    second: VillagerMale1Idle_21
+  - first:
+      213: -8057639439111556601
+    second: VillagerMale1Idle_22
+  - first:
+      213: -3988300727411400807
+    second: VillagerMale1Idle_23
+  - first:
+      213: -5477518669156144064
+    second: VillagerMale1Idle_24
+  - first:
+      213: -5753546780764218502
+    second: VillagerMale1Idle_25
+  - first:
+      213: 5357139123083867042
+    second: VillagerMale1Idle_26
+  - first:
+      213: -4818472775630106320
+    second: VillagerMale1Idle_27
+  - first:
+      213: 7936155156297366147
+    second: VillagerMale1Idle_28
+  - first:
+      213: -6631603901958928774
+    second: VillagerMale1Idle_29
+  - first:
+      213: -7873651090198849629
+    second: VillagerMale1Idle_30
+  - first:
+      213: -9046938159008176269
+    second: VillagerMale1Idle_31
+  - first:
+      213: -7442653278855925442
+    second: VillagerMale1Idle_32
+  - first:
+      213: 6474545548955362406
+    second: VillagerMale1Idle_33
+  - first:
+      213: -7182026379502511703
+    second: VillagerMale1Idle_34
+  - first:
+      213: -2739865403930419951
+    second: VillagerMale1Idle_35
+  - first:
+      213: 5596332214182277611
+    second: VillagerMale1Idle_36
+  - first:
+      213: 4497144650999114258
+    second: VillagerMale1Idle_37
+  - first:
+      213: 674264996591043119
+    second: VillagerMale1Idle_38
+  - first:
+      213: -5286331926351719681
+    second: VillagerMale1Idle_39
+  - first:
+      213: 6331236467968498444
+    second: VillagerMale1Idle_40
+  - first:
+      213: -5400048014492415213
+    second: VillagerMale1Idle_41
+  - first:
+      213: 5153107384909460216
+    second: VillagerMale1Idle_42
+  - first:
+      213: 3393780076483012110
+    second: VillagerMale1Idle_43
+  - first:
+      213: -922778607830061804
+    second: VillagerMale1Idle_44
+  - first:
+      213: -6348200115781472827
+    second: VillagerMale1Idle_45
+  - first:
+      213: -7461871827467996255
+    second: VillagerMale1Idle_46
+  - first:
+      213: -5298726768980602047
+    second: VillagerMale1Idle_47
+  - first:
+      213: -8196537875493710142
+    second: VillagerMale1Idle_48
+  - first:
+      213: 1097670438274477332
+    second: VillagerMale1Idle_49
+  - first:
+      213: 4113858164607514422
+    second: VillagerMale1Idle_50
+  - first:
+      213: 6099922112813426070
+    second: VillagerMale1Idle_51
+  - first:
+      213: -3233188711459728090
+    second: VillagerMale1Idle_52
+  - first:
+      213: 4830486037627339912
+    second: VillagerMale1Idle_53
+  - first:
+      213: -6761463457672400431
+    second: VillagerMale1Idle_54
+  - first:
+      213: 4349971721329268873
+    second: VillagerMale1Idle_55
+  - first:
+      213: 2597840918205568843
+    second: VillagerMale1Idle_56
+  - first:
+      213: 2980087065147493392
+    second: VillagerMale1Idle_57
+  - first:
+      213: -6208511491427482484
+    second: VillagerMale1Idle_58
+  - first:
+      213: -8960600306332409356
+    second: VillagerMale1Idle_59
+  - first:
+      213: 1932457472773626914
+    second: VillagerMale1Idle_60
+  - first:
+      213: 8282104458401999895
+    second: VillagerMale1Idle_61
+  - first:
+      213: 5659632728963526698
+    second: VillagerMale1Idle_62
+  - first:
+      213: 4337449314043076326
+    second: VillagerMale1Idle_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VillagerMale1Idle_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1918
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5be14a945d7c7c00800000000000000
+      internalID: 899731827885992796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1918
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6393bf50c45788c40800000000000000
+      internalID: 5514786713093486902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1918
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603e3bee01aec7f60800000000000000
+      internalID: 8033553193767265030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_3
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1918
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfda17ee757cdf2c0800000000000000
+      internalID: -4396138480767226372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1918
+        width: 53
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154c74beb07126af0800000000000000
+      internalID: -404735676550495151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1918
+        width: 53
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff70cdada9aa75d0800000000000000
+      internalID: -3063950033062690823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1918
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935baeb286761d100800000000000000
+      internalID: 130999561281516857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1918
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abd232a7dc84b8c0800000000000000
+      internalID: -3984404912548947033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1662
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64710cb1b85755a0800000000000000
+      internalID: -6532655214090947476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_9
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1662
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516e4caead722b210800000000000000
+      internalID: 1347183059732325909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1662
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638ebaa98f704cd80800000000000000
+      internalID: -8231445454598182858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_11
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1662
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6408979de561eb790800000000000000
+      internalID: -7512542531776053178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1662
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357fa814159975ec0800000000000000
+      internalID: -3578222804651542701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1662
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5b267a827c06700800000000000000
+      internalID: 531643733450601897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1662
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f36b26c693c31d30800000000000000
+      internalID: 4401076313208349682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1662
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c281b50fdc898d0800000000000000
+      internalID: -2839293132852941821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1406
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ac6d3617e2ceda0800000000000000
+      internalID: -5914301146103100782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_17
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1406
+        width: 54
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf35166ca0eb8180800000000000000
+      internalID: -9111942390002401356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1405
+        width: 53
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aacd5819560a5d0800000000000000
+      internalID: -3053328871666701675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_19
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1405
+        width: 53
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ef66ff91558e3e0800000000000000
+      internalID: -2024274462355554658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1405
+        width: 53
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9056e630ef0a0c0800000000000000
+      internalID: -4566370731463210574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1405
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e2e4971aef6fad0800000000000000
+      internalID: -2668665759692083635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1405
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702f39f0f938d2090800000000000000
+      internalID: -8057639439111556601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1405
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f163d8e95b6a8c0800000000000000
+      internalID: -3988300727411400807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1149
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ca062aac1fbf3b0800000000000000
+      internalID: -5477518669156144064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_25
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1149
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bd4fdbfab4720b0800000000000000
+      internalID: -5753546780764218502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_26
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1149
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3f2cb26a1685a40800000000000000
+      internalID: 5357139123083867042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1149
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0315da83a88512db0800000000000000
+      internalID: -4818472775630106320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1149
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a3d7d2113e22e60800000000000000
+      internalID: 7936155156297366147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1149
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76c4ac036fc7f3a0800000000000000
+      internalID: -6631603901958928774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_30
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1149
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a79453cc0c2bb290800000000000000
+      internalID: -7873651090198849629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_31
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1149
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37724675da1d27280800000000000000
+      internalID: -9046938159008176269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 893
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e317567964266b890800000000000000
+      internalID: -7442653278855925442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_33
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 893
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66422978fd43ad950800000000000000
+      internalID: 6474545548955362406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_34
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 893
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a994425f01545c90800000000000000
+      internalID: -7182026379502511703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_35
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 893
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d585a7eea0af9d0800000000000000
+      internalID: -2739865403930419951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_36
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 893
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1f8678f7a2aad40800000000000000
+      internalID: 5596332214182277611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_37
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 893
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aa952bb31196e30800000000000000
+      internalID: 4497144650999114258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_38
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 893
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f220a4621787b5900800000000000000
+      internalID: 674264996591043119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_39
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 893
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2dff40f1d23a6b0800000000000000
+      internalID: -5286331926351719681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_40
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 637
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bd246f5021dd750800000000000000
+      internalID: 6331236467968498444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_41
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 637
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b402601fc2f05b0800000000000000
+      internalID: -5400048014492415213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_42
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 637
+        width: 53
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f278fe3dd3838740800000000000000
+      internalID: 5153107384909460216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_43
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 637
+        width: 53
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e066190aff0291f20800000000000000
+      internalID: 3393780076483012110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_44
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 638
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41da5f9ceb1a133f0800000000000000
+      internalID: -922778607830061804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_45
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 638
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd60cff0a9a6e7a0800000000000000
+      internalID: -6348200115781472827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_46
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 638
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3764c8b1b127890800000000000000
+      internalID: -7461871827467996255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_47
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 638
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143de05d3142776b0800000000000000
+      internalID: -5298726768980602047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 382
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c69927ba3c004e80800000000000000
+      internalID: -8196537875493710142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_49
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 382
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d2cc9a275bb3f00800000000000000
+      internalID: 1097670438274477332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_50
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 382
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63775cd543c571930800000000000000
+      internalID: 4113858164607514422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_51
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 382
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6956bc3c7d647a450800000000000000
+      internalID: 6099922112813426070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_52
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 382
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625d3a14ff76123d0800000000000000
+      internalID: -3233188711459728090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_53
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 382
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884034d4575590340800000000000000
+      internalID: 4830486037627339912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_54
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 382
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1f6ab1fc47a22a0800000000000000
+      internalID: -6761463457672400431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_55
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 382
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98853d0cb343e5c30800000000000000
+      internalID: 4349971721329268873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_56
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 126
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b471e981d826d0420800000000000000
+      internalID: 2597840918205568843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_57
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 126
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c4ad585656b5920800000000000000
+      internalID: 2980087065147493392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_58
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 126
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84c88151bfe6d9a0800000000000000
+      internalID: -6208511491427482484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_59
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 126
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1ecc62f7d85a380800000000000000
+      internalID: -8960600306332409356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_60
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 126
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c983835d771da10800000000000000
+      internalID: 1932457472773626914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_61
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 126
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ceabbdf12ffe270800000000000000
+      internalID: 8282104458401999895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_62
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 126
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20bb012bfd0b8e40800000000000000
+      internalID: 5659632728963526698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VillagerMale1Idle_63
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 126
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee9cca9b27b13c30800000000000000
+      internalID: 4337449314043076326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

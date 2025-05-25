@@ -1,0 +1,1242 @@
+fileFormatVersion: 2
+guid: d4b4e955e40b86c448457b2d1dc313a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7114426164337029207
+    second: catidle_0
+  - first:
+      213: 3101475959651800580
+    second: catidle_1
+  - first:
+      213: 8915512687545983265
+    second: catidle_2
+  - first:
+      213: 7689583445411524744
+    second: catidle_3
+  - first:
+      213: 2723355465235565586
+    second: catidle_4
+  - first:
+      213: -5420222458282991689
+    second: catidle_5
+  - first:
+      213: 3823801801928820174
+    second: catidle_6
+  - first:
+      213: 853929828114878242
+    second: catidle_7
+  - first:
+      213: 2037824112751347003
+    second: catidle_8
+  - first:
+      213: 435752437205486276
+    second: catidle_9
+  - first:
+      213: 2177469213268595484
+    second: catidle_10
+  - first:
+      213: -4964019015894897482
+    second: catidle_11
+  - first:
+      213: -6922108139732969874
+    second: catidle_12
+  - first:
+      213: -7806437466384541149
+    second: catidle_13
+  - first:
+      213: -5778618166696055447
+    second: catidle_14
+  - first:
+      213: 2388956293014023540
+    second: catidle_15
+  - first:
+      213: -5028692860157012666
+    second: catidle_16
+  - first:
+      213: -6684392130209913791
+    second: catidle_17
+  - first:
+      213: -7247313298655923327
+    second: catidle_18
+  - first:
+      213: 6947675356996820586
+    second: catidle_19
+  - first:
+      213: 6909094860735897873
+    second: catidle_20
+  - first:
+      213: 7073495952178988067
+    second: catidle_21
+  - first:
+      213: 6546017647032735897
+    second: catidle_22
+  - first:
+      213: -3136911255507100690
+    second: catidle_23
+  - first:
+      213: -3898738091999388325
+    second: catidle_24
+  - first:
+      213: -7289739021743430803
+    second: catidle_25
+  - first:
+      213: 2767033071002757574
+    second: catidle_26
+  - first:
+      213: -3466472857493280788
+    second: catidle_27
+  - first:
+      213: 6049846042704785292
+    second: catidle_28
+  - first:
+      213: 4533360468024786205
+    second: catidle_29
+  - first:
+      213: 3468637194269480273
+    second: catidle_30
+  - first:
+      213: -8299149702036697009
+    second: catidle_31
+  - first:
+      213: 3820056166397538926
+    second: catidle_32
+  - first:
+      213: -2151826184503045016
+    second: catidle_33
+  - first:
+      213: -2420698927509024148
+    second: catidle_34
+  - first:
+      213: -63768625752375542
+    second: catidle_35
+  - first:
+      213: -6493042306717680837
+    second: catidle_36
+  - first:
+      213: -2505030084895470997
+    second: catidle_37
+  - first:
+      213: -6609178719028263523
+    second: catidle_38
+  - first:
+      213: -1397311376751004249
+    second: catidle_39
+  - first:
+      213: 460054681084287735
+    second: catidle_40
+  - first:
+      213: -4217623934622374241
+    second: catidle_41
+  - first:
+      213: -8401777509736319353
+    second: catidle_42
+  - first:
+      213: 7252679573097766396
+    second: catidle_43
+  - first:
+      213: 1473460320259955175
+    second: catidle_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: catidle_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1916
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af42fde81b744d90800000000000000
+      internalID: -7114426164337029207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1916
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4069576f3f7aa0b20800000000000000
+      internalID: 3101475959651800580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_2
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1916
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121aaab8d834abb70800000000000000
+      internalID: 8915512687545983265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_3
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1916
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8807a760763e6ba60800000000000000
+      internalID: 7689583445411524744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_4
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1916
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c0c7edd5d4bc520800000000000000
+      internalID: 2723355465235565586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_5
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1916
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf927a446087c4b0800000000000000
+      internalID: -5420222458282991689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_6
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1916
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5477fba7fd01530800000000000000
+      internalID: 3823801801928820174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_7
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1916
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fc5e387a4c9db00800000000000000
+      internalID: 853929828114878242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1660
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b350543db3ec74c10800000000000000
+      internalID: 2037824112751347003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1660
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cac4ad688a1c0600800000000000000
+      internalID: 435752437205486276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1660
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13593676bce73e10800000000000000
+      internalID: 2177469213268595484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_11
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1660
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcec4b61034c1bb0800000000000000
+      internalID: -4964019015894897482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_12
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1660
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e665062625bbfef90800000000000000
+      internalID: -6922108139732969874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_13
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1660
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a59de0c76f9a390800000000000000
+      internalID: -7806437466384541149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_14
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1660
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d6671d4693ecfa0800000000000000
+      internalID: -5778618166696055447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_15
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1660
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47de80d5717472120800000000000000
+      internalID: 2388956293014023540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1404
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6455cc1ac7e763ab0800000000000000
+      internalID: -5028692860157012666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_17
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1404
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144eb63e5c44c33a0800000000000000
+      internalID: -6684392130209913791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1404
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18336a9e3fe5c6b90800000000000000
+      internalID: -7247313298655923327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_19
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1404
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ed7844de91b6060800000000000000
+      internalID: 6947675356996820586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_20
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1404
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111e3ad7b2902ef50800000000000000
+      internalID: 6909094860735897873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_21
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1404
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324cacd671b1a2260800000000000000
+      internalID: 7073495952178988067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_22
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1404
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99813d02e5028da50800000000000000
+      internalID: 6546017647032735897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_23
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1404
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb139b45d37774d0800000000000000
+      internalID: -3136911255507100690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1148
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d971a9c56e4e9c0800000000000000
+      internalID: -3898738091999388325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_25
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1148
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63edaf7bf4a5da90800000000000000
+      internalID: -7289739021743430803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_26
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1148
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9a0eeeae9766620800000000000000
+      internalID: 2767033071002757574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_27
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1148
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce764916d4d94efc0800000000000000
+      internalID: -3466472857493280788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_28
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1148
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fa8312cee55f350800000000000000
+      internalID: 6049846042704785292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_29
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1148
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d7a6fa35bb9ee30800000000000000
+      internalID: 4533360468024786205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_30
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1148
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155d32b8623132030800000000000000
+      internalID: 3468637194269480273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_31
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1148
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f405058115f73dc80800000000000000
+      internalID: -8299149702036697009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 892
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e627a2408d0930530800000000000000
+      internalID: 3820056166397538926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_33
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 892
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864df4e6c7d2322e0800000000000000
+      internalID: -2151826184503045016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_34
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 892
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62d7ad9623f76ed0800000000000000
+      internalID: -2420698927509024148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_35
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 892
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ff632d5c27d1ff0800000000000000
+      internalID: -63768625752375542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_36
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 892
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b72847c6414e5a0800000000000000
+      internalID: -6493042306717680837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_37
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 892
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a8326f8685c3dd0800000000000000
+      internalID: -2505030084895470997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_38
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 892
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95cf33d8fa7744a0800000000000000
+      internalID: -6609178719028263523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_39
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 892
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5f424c4b0cb9ce0800000000000000
+      internalID: -1397311376751004249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_40
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 636
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fad8438b41726600800000000000000
+      internalID: 460054681084287735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_41
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 636
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96e5ac906df775c0800000000000000
+      internalID: -4217623934622374241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_42
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 636
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786fc429ed3e66b80800000000000000
+      internalID: -8401777509736319353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_43
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 636
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd593835a1b6a460800000000000000
+      internalID: 7252679573097766396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: catidle_44
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 636
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e95ab3ca58c27410800000000000000
+      internalID: 1473460320259955175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
