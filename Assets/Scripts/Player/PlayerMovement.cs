@@ -54,7 +54,6 @@ public class PlayerMovement : MonoBehaviour
         playerRb.linearVelocity = new Vector2(delta.x, playerRb.linearVelocityY);
         if (delta.x != 0) formSwap.CurrentAnimator.SetFloat("speed", 1f);
         else formSwap.CurrentAnimator.SetFloat("speed", 0f);
-        Debug.Log(formSwap.CurrentAnimator.GetFloat("speed"));
     }
 
     void Flip()
