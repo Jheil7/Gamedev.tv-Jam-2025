@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shed_0: -5323765086439135580
+      Shed_1: -2854832734800192487
+      Shed_2: 1542206259460503117
+      Shed_3: -5429278739383353
+      Shed_4: -1513668692135124277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

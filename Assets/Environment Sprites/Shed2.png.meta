@@ -385,7 +385,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Shed2_0: -5851986449115297231
+      Shed2_1: -6929594374143929584
+      Shed2_2: -6206269960538829612
+      Shed2_3: -6988320942291874380
+      Shed2_4: 2516104691551621504
+      Shed2_5: -5294349999928158927
+      Shed2_6: -7749003787113257124
+      Shed2_7: 931498451718193983
+      Shed2_8: -2371547246133587223
+      Shed2_9: -2122518564689746759
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
