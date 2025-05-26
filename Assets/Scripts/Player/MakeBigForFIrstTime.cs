@@ -6,6 +6,8 @@ public class MakeBigForFIrstTime : MonoBehaviour
     BoxCollider2D thisBoxCollider;
     [SerializeField] private TooltipData tooltipData;
     [SerializeField] float seconds;
+    public GameObject fullWell;
+    public GameObject brokenWell;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -28,6 +30,12 @@ public class MakeBigForFIrstTime : MonoBehaviour
             StartCoroutine(BriefToolTip());
             thisBoxCollider.enabled = false;
 
+        }
+
+        if (collision.tag == "BigFormHitbox")
+        {
+            fullWell.SetActive(false);
+            brokenWell.SetActive(true);
         }
     }
 

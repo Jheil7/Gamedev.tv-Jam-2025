@@ -21,15 +21,25 @@ public class FormSwap : MonoBehaviour
     public bool bigFormUnlocked;
 
     [SerializeField] private FormBehaviorBase currentFormBehavior;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    public bool movementEnabledForPause;
+
+
     public bool BigFormUnlocked
     {
         get { return bigFormUnlocked; }
-        set { bigFormUnlocked = value; }  
+        set { bigFormUnlocked = value; }
+    }
+
+    public bool MovementEnabledForPause
+    {
+        get { return movementEnabledForPause; }
+        set { movementEnabledForPause = value; }
     }
 
     void Start()
     {
+        movementEnabledForPause = true;
         bigFormUnlocked = false;
         SetActiveForm(0);
         SwitchToZoomedIn();
@@ -44,7 +54,7 @@ public class FormSwap : MonoBehaviour
     public void OnFire(InputValue value)
     {
         //set active form to small form
-        if (value.isPressed)
+        if (value.isPressed&&movementEnabledForPause)
         {
             SetActiveForm(0);
             SwitchToZoomedIn();
@@ -56,7 +66,7 @@ public class FormSwap : MonoBehaviour
     public void OnSecondaryFire(InputValue value)
     {
         //set active form to big form
-        if (value.isPressed&&bigFormUnlocked)
+        if (value.isPressed&&bigFormUnlocked&&movementEnabledForPause)
         {
             SetActiveForm(1);
             SwitchToZoomedOut();

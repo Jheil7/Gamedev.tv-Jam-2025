@@ -5,6 +5,9 @@ public class LockManager : MonoBehaviour
 {
     public static LockManager Instance;
     [SerializeField] GameStateManager gameStateManager;
+    AudioSource audioSource;
+    public AudioClip popTumbler;
+    public AudioClip unlockedAudio;
 
     public List<int> correctOrder = new List<int> { 2, 1, 3, 5, 4 };
 
@@ -16,6 +19,11 @@ public class LockManager : MonoBehaviour
         Instance = this;
     }
 
+
+    void Start()
+    {
+        audioSource = GetComponent<AudioSource>();
+    }
     public void TumblerHit(int tumblerID, Tumbler tumbler)
     {
         Debug.Log($"Hit tumbler: {tumblerID}");
@@ -23,6 +31,7 @@ public class LockManager : MonoBehaviour
         if (tumblerID == correctOrder[currentIndex])
         {
             tumbler.PopUp();
+            audioSource.PlayOneShot(popTumbler);
             poppedTumblers.Add(tumbler);
             currentIndex++;
 
@@ -40,6 +49,7 @@ public class LockManager : MonoBehaviour
     private void Unlock()
     {
         gameStateManager.lockPickCompleted = true;
+        audioSource.PlayOneShot(unlockedAudio);
         Debug.Log("Lock opened!");
         // Door open animation, cutscene, etc.
     }
