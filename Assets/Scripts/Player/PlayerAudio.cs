@@ -9,8 +9,8 @@ public class PlayerAudio : MonoBehaviour
 
     public AudioClip smallFootstep;
     public AudioClip bigFootstep;
-    public AudioClip smallJump;
-    public AudioClip bigJump;
+    // public AudioClip smallJump;
+    // public AudioClip bigJump;
 
     public void SetForm(PlayerForm form)
     {
@@ -25,7 +25,7 @@ public class PlayerAudio : MonoBehaviour
 
     public void PlayJump()
     {
-        AudioClip clip = currentForm == PlayerForm.Small ? smallJump : bigJump;
-        audioSource.PlayOneShot(clip);
+        // AudioClip clip = currentForm == PlayerForm.Small ? smallJump : bigJump;
+        // audioSource.PlayOneShot(clip);
     }
 }

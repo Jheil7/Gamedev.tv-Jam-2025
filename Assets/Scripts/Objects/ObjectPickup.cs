@@ -17,11 +17,12 @@ public class ObjectPickup : MonoBehaviour
             //do pickup
         }
 
-        else if (collision.CompareTag("SmallFormHitbox") )
+        else if (collision.CompareTag("SmallFormHitbox"))
         {
             ableToPickUp = true;
             //cant be picked up, too small
         }
+
     }
 
     void OnTriggerExit2D(Collider2D collision)

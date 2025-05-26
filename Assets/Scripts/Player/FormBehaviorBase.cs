@@ -33,6 +33,8 @@ public abstract class FormBehaviorBase : MonoBehaviour, IInteract, InteractF
 
     public virtual void InteractWithObject()
     {
+        Debug.Log($"[INTERACT] State: {currentState}, objectToPickup: {objectToPickup}, able: {objectToPickup?.AbleToPickUp}");
+
         animator.Play("GrandyeGrabAnim");
         animator.StopPlayback();
         switch (currentState)
@@ -148,5 +150,19 @@ public abstract class FormBehaviorBase : MonoBehaviour, IInteract, InteractF
             nearbyFInteractable = null;
         }
     }
+
+    protected virtual void OnTriggerStay2D(Collider2D collision)
+{
+    if (collision.CompareTag(targetTag))
+    {
+        objectToPickup = collision.GetComponent<ObjectPickup>();
+
+        if (objectToPickup != null && objectToPickup.AbleToPickUp && currentState == CarryState.Idle)
+        {
+            currentState = CarryState.ReadyToPickup;
+            Debug.Log($"[OnTriggerStay2D] Set to ReadyToPickup for {objectToPickup.name}");
+        }
+    }
+}
 }
 
