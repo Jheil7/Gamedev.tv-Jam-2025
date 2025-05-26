@@ -4,6 +4,7 @@ public class Lock : MonoBehaviour, InteractF
 {
     GameObject player;
     [SerializeField] Transform entryPointInNextScene;
+    [SerializeField] private ScreenFader screenFader;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -18,7 +19,10 @@ public class Lock : MonoBehaviour, InteractF
 
     public void InteractWithObjectF()
     {
-        player.transform.position = entryPointInNextScene.position;
+        StartCoroutine(screenFader.FadeOutIn(() =>
+        {
+            player.transform.position = entryPointInNextScene.position;
+        }));
     }
 
     void OnTriggerEnter2D(Collider2D collision)

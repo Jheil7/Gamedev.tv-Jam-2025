@@ -3,6 +3,7 @@ using UnityEngine;
 public class CatHit : MonoBehaviour
 {
     public Transform outside;
+    [SerializeField] private ScreenFader screenFader;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -19,7 +20,10 @@ public class CatHit : MonoBehaviour
     {
         if (collision.tag == "SmallFormHitbox")
         {
-            collision.transform.root.position = outside.position;
+            StartCoroutine(screenFader.FadeOutIn(() =>
+            {
+                collision.transform.root.position = outside.position;
+            }));
         }
     }
 }

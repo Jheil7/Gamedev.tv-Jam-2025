@@ -57,13 +57,17 @@ public class Bucket : MonoBehaviour, InteractF
 
     public void TurnOnCollider()
     {
-        Collider2D wellCollider = wellGameObject.GetComponent<Collider2D>();
-        wellCollider.enabled = true;
+        BoxCollider2D boxCollider = wellGameObject.GetComponent<BoxCollider2D>();
+        CapsuleCollider2D capsuleCollider = wellGameObject.GetComponent<CapsuleCollider2D>();
+        boxCollider.enabled = true;
+        capsuleCollider.enabled = true;
     }
 
     public void TurnOffCollider()
     {
-        Collider2D wellCollider = wellGameObject.GetComponent<Collider2D>();
-        wellCollider.enabled = false;
+        BoxCollider2D boxCollider = wellGameObject.GetComponent<BoxCollider2D>();
+        CapsuleCollider2D capsuleCollider = wellGameObject.GetComponent<CapsuleCollider2D>();
+        boxCollider.enabled = false;
+        capsuleCollider.enabled = false;
     }
 }

@@ -15,6 +15,7 @@ public class TurnoffBigFormTrigger : MonoBehaviour
         //turn into small form if already in big form
         if (collision.tag == "BigFormHitbox")
         {
+            formSwap = collision.GetComponentInParent<FormSwap>();
             formSwap.SetActiveForm(0);
             formSwap.SwitchToZoomedIn();
         }

@@ -5,6 +5,7 @@ public class PadlockUnlocked : MonoBehaviour, InteractF
     GameObject player;
     [SerializeField] Transform entryPointInNextScene;
     bool abletoMoveOn;
+    [SerializeField] private ScreenFader screenFader;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -21,7 +22,10 @@ public class PadlockUnlocked : MonoBehaviour, InteractF
     {
         if (abletoMoveOn)
         { 
+        StartCoroutine(screenFader.FadeOutIn(() =>
+        {
             player.transform.position = entryPointInNextScene.position;
+        }));
         }
         
     }

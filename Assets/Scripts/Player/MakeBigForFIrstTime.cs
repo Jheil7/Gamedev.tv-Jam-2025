@@ -28,14 +28,14 @@ public class MakeBigForFIrstTime : MonoBehaviour
             playerForm.SetActiveForm(1);
             playerForm.SwitchToZoomedOut();
             StartCoroutine(BriefToolTip());
-            thisBoxCollider.enabled = false;
-
+        
         }
 
         if (collision.tag == "BigFormHitbox")
         {
             fullWell.SetActive(false);
             brokenWell.SetActive(true);
+            thisBoxCollider.enabled = false;
         }
     }
 
