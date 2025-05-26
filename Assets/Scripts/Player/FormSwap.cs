@@ -23,6 +23,7 @@ public class FormSwap : MonoBehaviour
     [SerializeField] private FormBehaviorBase currentFormBehavior;
 
     public bool movementEnabledForPause;
+    private bool small = true;
 
 
     public bool BigFormUnlocked
@@ -116,6 +117,22 @@ public class FormSwap : MonoBehaviour
         currentFormBehavior = activeForm.GetComponent<FormBehaviorBase>();
         
         currentAnimator = index == 0 ? smallFormAnimator : bigFormAnimator;
+        if (bigFormUnlocked)
+        {
+            if (index == 0 && !small)
+            {
+                currentAnimator.Play("shrink");
+                small = !small;
+            }
+            else if(index == 1 && small){ 
+                currentAnimator.Play("grow");
+                small = !small;
+            }
+            else
+            {
+                 // do nothing
+            }
+        }
     }
 
 
