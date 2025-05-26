@@ -11,13 +11,13 @@ public class ObjectPickup : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "BigFormHitbox")
+        if (collision.CompareTag("BigFormHitbox"))
         {
             ableToPickUp = true;
             //do pickup
         }
 
-        else if (collision.tag == "SmallFormHitbox")
+        else if (collision.CompareTag("SmallFormHitbox") )
         {
             ableToPickUp = true;
             //cant be picked up, too small
@@ -26,7 +26,7 @@ public class ObjectPickup : MonoBehaviour
 
     void OnTriggerExit2D(Collider2D collision)
     {
-        if (collision.tag == "BigFormHitbox" || collision.tag == "SmallFormHitbox")
+        if (collision.CompareTag("BigFormHitbox") || collision.CompareTag("SmallFormHitbox") )
         {
             ableToPickUp = false;
         }

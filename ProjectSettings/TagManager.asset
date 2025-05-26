@@ -6,9 +6,8 @@ TagManager:
   tags:
   - BigFormHitbox
   - SmallFormHitbox
-  - Building
-  - MovableLarge
   - MovableSmall
+  - MovableLarge
   layers:
   - Default
   - TransparentFX
