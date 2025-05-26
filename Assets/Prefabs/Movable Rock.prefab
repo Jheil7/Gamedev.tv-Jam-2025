@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3393040162931679650}
   - component: {fileID: -5848592203065252632}
   - component: {fileID: 4364766315380018444}
+  - component: {fileID: 2833141715366244291}
   m_Layer: 8
   m_Name: Movable Rock
   m_TagString: MovableSmall
@@ -176,3 +177,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ableToPickUp: 0
+--- !u!114 &2833141715366244291
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7575849142645423867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7a0c3e8dd1bcd14792582aa37937432, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxDistance: 200

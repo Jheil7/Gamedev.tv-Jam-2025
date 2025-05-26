@@ -38,5 +38,10 @@ public class Lock : MonoBehaviour, InteractF
             player = collision.transform.root.gameObject;
 
         }
+
+        else
+        {
+            canPick = false;
+        }
     }
 }
